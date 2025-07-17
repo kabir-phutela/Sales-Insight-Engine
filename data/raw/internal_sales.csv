@@ -1,0 +1,2401 @@
+product_id,product_name,area,date,sales
+P001,Soft Drink X,Delhi,2025-06-27,188
+P001,Soft Drink X,Mumbai,2025-06-27,224
+P001,Soft Drink X,Kolkata,2025-06-27,157
+P001,Soft Drink X,Chennai,2025-06-27,156
+P001,Soft Drink X,Bengaluru,2025-06-27,156
+P002,Mithai Y,Delhi,2025-06-27,101
+P002,Mithai Y,Mumbai,2025-06-27,130
+P002,Mithai Y,Kolkata,2025-06-27,119
+P002,Mithai Y,Chennai,2025-06-27,144
+P002,Mithai Y,Bengaluru,2025-06-27,125
+P003,Cold Cream Z,Delhi,2025-06-27,64
+P003,Cold Cream Z,Mumbai,2025-06-27,25
+P003,Cold Cream Z,Kolkata,2025-06-27,93
+P003,Cold Cream Z,Chennai,2025-06-27,16
+P003,Cold Cream Z,Bengaluru,2025-06-27,66
+P004,T-Shirt,Delhi,2025-06-27,124
+P004,T-Shirt,Mumbai,2025-06-27,130
+P004,T-Shirt,Kolkata,2025-06-27,138
+P004,T-Shirt,Chennai,2025-06-27,165
+P004,T-Shirt,Bengaluru,2025-06-27,120
+P005,Face Mask,Delhi,2025-06-27,188
+P005,Face Mask,Mumbai,2025-06-27,199
+P005,Face Mask,Kolkata,2025-06-27,216
+P005,Face Mask,Chennai,2025-06-27,280
+P005,Face Mask,Bengaluru,2025-06-27,236
+P001,Soft Drink X,Delhi,2025-06-28,182
+P001,Soft Drink X,Mumbai,2025-06-28,168
+P001,Soft Drink X,Kolkata,2025-06-28,162
+P001,Soft Drink X,Chennai,2025-06-28,209
+P001,Soft Drink X,Bengaluru,2025-06-28,175
+P002,Mithai Y,Delhi,2025-06-28,121
+P002,Mithai Y,Mumbai,2025-06-28,98
+P002,Mithai Y,Kolkata,2025-06-28,129
+P002,Mithai Y,Chennai,2025-06-28,145
+P002,Mithai Y,Bengaluru,2025-06-28,121
+P003,Cold Cream Z,Delhi,2025-06-28,60
+P003,Cold Cream Z,Mumbai,2025-06-28,27
+P003,Cold Cream Z,Kolkata,2025-06-28,76
+P003,Cold Cream Z,Chennai,2025-06-28,77
+P003,Cold Cream Z,Bengaluru,2025-06-28,37
+P004,T-Shirt,Delhi,2025-06-28,146
+P004,T-Shirt,Mumbai,2025-06-28,185
+P004,T-Shirt,Kolkata,2025-06-28,158
+P004,T-Shirt,Chennai,2025-06-28,153
+P004,T-Shirt,Bengaluru,2025-06-28,134
+P005,Face Mask,Delhi,2025-06-28,230
+P005,Face Mask,Mumbai,2025-06-28,179
+P005,Face Mask,Kolkata,2025-06-28,236
+P005,Face Mask,Chennai,2025-06-28,231
+P005,Face Mask,Bengaluru,2025-06-28,266
+P001,Soft Drink X,Delhi,2025-06-29,153
+P001,Soft Drink X,Mumbai,2025-06-29,196
+P001,Soft Drink X,Kolkata,2025-06-29,186
+P001,Soft Drink X,Chennai,2025-06-29,198
+P001,Soft Drink X,Bengaluru,2025-06-29,136
+P002,Mithai Y,Delhi,2025-06-29,120
+P002,Mithai Y,Mumbai,2025-06-29,135
+P002,Mithai Y,Kolkata,2025-06-29,100
+P002,Mithai Y,Chennai,2025-06-29,75
+P002,Mithai Y,Bengaluru,2025-06-29,155
+P003,Cold Cream Z,Delhi,2025-06-29,95
+P003,Cold Cream Z,Mumbai,2025-06-29,81
+P003,Cold Cream Z,Kolkata,2025-06-29,100
+P003,Cold Cream Z,Chennai,2025-06-29,77
+P003,Cold Cream Z,Bengaluru,2025-06-29,93
+P004,T-Shirt,Delhi,2025-06-29,142
+P004,T-Shirt,Mumbai,2025-06-29,142
+P004,T-Shirt,Kolkata,2025-06-29,189
+P004,T-Shirt,Chennai,2025-06-29,174
+P004,T-Shirt,Bengaluru,2025-06-29,159
+P005,Face Mask,Delhi,2025-06-29,229
+P005,Face Mask,Mumbai,2025-06-29,219
+P005,Face Mask,Kolkata,2025-06-29,190
+P005,Face Mask,Chennai,2025-06-29,282
+P005,Face Mask,Bengaluru,2025-06-29,246
+P001,Soft Drink X,Delhi,2025-06-30,204
+P001,Soft Drink X,Mumbai,2025-06-30,149
+P001,Soft Drink X,Kolkata,2025-06-30,203
+P001,Soft Drink X,Chennai,2025-06-30,181
+P001,Soft Drink X,Bengaluru,2025-06-30,185
+P002,Mithai Y,Delhi,2025-06-30,112
+P002,Mithai Y,Mumbai,2025-06-30,120
+P002,Mithai Y,Kolkata,2025-06-30,128
+P002,Mithai Y,Chennai,2025-06-30,83
+P002,Mithai Y,Bengaluru,2025-06-30,134
+P003,Cold Cream Z,Delhi,2025-06-30,70
+P003,Cold Cream Z,Mumbai,2025-06-30,71
+P003,Cold Cream Z,Kolkata,2025-06-30,40
+P003,Cold Cream Z,Chennai,2025-06-30,45
+P003,Cold Cream Z,Bengaluru,2025-06-30,58
+P004,T-Shirt,Delhi,2025-06-30,127
+P004,T-Shirt,Mumbai,2025-06-30,184
+P004,T-Shirt,Kolkata,2025-06-30,158
+P004,T-Shirt,Chennai,2025-06-30,187
+P004,T-Shirt,Bengaluru,2025-06-30,152
+P005,Face Mask,Delhi,2025-06-30,194
+P005,Face Mask,Mumbai,2025-06-30,217
+P005,Face Mask,Kolkata,2025-06-30,228
+P005,Face Mask,Chennai,2025-06-30,250
+P005,Face Mask,Bengaluru,2025-06-30,189
+P001,Soft Drink X,Delhi,2025-07-01,240
+P001,Soft Drink X,Mumbai,2025-07-01,243
+P001,Soft Drink X,Kolkata,2025-07-01,189
+P001,Soft Drink X,Chennai,2025-07-01,243
+P001,Soft Drink X,Bengaluru,2025-07-01,221
+P002,Mithai Y,Delhi,2025-07-01,102
+P002,Mithai Y,Mumbai,2025-07-01,100
+P002,Mithai Y,Kolkata,2025-07-01,104
+P002,Mithai Y,Chennai,2025-07-01,95
+P002,Mithai Y,Bengaluru,2025-07-01,128
+P003,Cold Cream Z,Delhi,2025-07-01,46
+P003,Cold Cream Z,Mumbai,2025-07-01,76
+P003,Cold Cream Z,Kolkata,2025-07-01,93
+P003,Cold Cream Z,Chennai,2025-07-01,30
+P003,Cold Cream Z,Bengaluru,2025-07-01,94
+P004,T-Shirt,Delhi,2025-07-01,157
+P004,T-Shirt,Mumbai,2025-07-01,144
+P004,T-Shirt,Kolkata,2025-07-01,180
+P004,T-Shirt,Chennai,2025-07-01,193
+P004,T-Shirt,Bengaluru,2025-07-01,161
+P005,Face Mask,Delhi,2025-07-01,207
+P005,Face Mask,Mumbai,2025-07-01,157
+P005,Face Mask,Kolkata,2025-07-01,215
+P005,Face Mask,Chennai,2025-07-01,192
+P005,Face Mask,Bengaluru,2025-07-01,200
+P001,Soft Drink X,Delhi,2025-07-02,236
+P001,Soft Drink X,Mumbai,2025-07-02,229
+P001,Soft Drink X,Kolkata,2025-07-02,260
+P001,Soft Drink X,Chennai,2025-07-02,272
+P001,Soft Drink X,Bengaluru,2025-07-02,261
+P002,Mithai Y,Delhi,2025-07-02,122
+P002,Mithai Y,Mumbai,2025-07-02,91
+P002,Mithai Y,Kolkata,2025-07-02,101
+P002,Mithai Y,Chennai,2025-07-02,100
+P002,Mithai Y,Bengaluru,2025-07-02,68
+P003,Cold Cream Z,Delhi,2025-07-02,61
+P003,Cold Cream Z,Mumbai,2025-07-02,30
+P003,Cold Cream Z,Kolkata,2025-07-02,29
+P003,Cold Cream Z,Chennai,2025-07-02,87
+P003,Cold Cream Z,Bengaluru,2025-07-02,93
+P004,T-Shirt,Delhi,2025-07-02,197
+P004,T-Shirt,Mumbai,2025-07-02,222
+P004,T-Shirt,Kolkata,2025-07-02,182
+P004,T-Shirt,Chennai,2025-07-02,143
+P004,T-Shirt,Bengaluru,2025-07-02,146
+P005,Face Mask,Delhi,2025-07-02,240
+P005,Face Mask,Mumbai,2025-07-02,218
+P005,Face Mask,Kolkata,2025-07-02,218
+P005,Face Mask,Chennai,2025-07-02,215
+P005,Face Mask,Bengaluru,2025-07-02,249
+P001,Soft Drink X,Delhi,2025-07-03,256
+P001,Soft Drink X,Mumbai,2025-07-03,239
+P001,Soft Drink X,Kolkata,2025-07-03,245
+P001,Soft Drink X,Chennai,2025-07-03,228
+P001,Soft Drink X,Bengaluru,2025-07-03,237
+P002,Mithai Y,Delhi,2025-07-03,89
+P002,Mithai Y,Mumbai,2025-07-03,92
+P002,Mithai Y,Kolkata,2025-07-03,92
+P002,Mithai Y,Chennai,2025-07-03,126
+P002,Mithai Y,Bengaluru,2025-07-03,133
+P003,Cold Cream Z,Delhi,2025-07-03,99
+P003,Cold Cream Z,Mumbai,2025-07-03,83
+P003,Cold Cream Z,Kolkata,2025-07-03,71
+P003,Cold Cream Z,Chennai,2025-07-03,0
+P003,Cold Cream Z,Bengaluru,2025-07-03,79
+P004,T-Shirt,Delhi,2025-07-03,176
+P004,T-Shirt,Mumbai,2025-07-03,154
+P004,T-Shirt,Kolkata,2025-07-03,187
+P004,T-Shirt,Chennai,2025-07-03,202
+P004,T-Shirt,Bengaluru,2025-07-03,185
+P005,Face Mask,Delhi,2025-07-03,145
+P005,Face Mask,Mumbai,2025-07-03,183
+P005,Face Mask,Kolkata,2025-07-03,237
+P005,Face Mask,Chennai,2025-07-03,245
+P005,Face Mask,Bengaluru,2025-07-03,261
+P001,Soft Drink X,Delhi,2025-07-04,293
+P001,Soft Drink X,Mumbai,2025-07-04,235
+P001,Soft Drink X,Kolkata,2025-07-04,316
+P001,Soft Drink X,Chennai,2025-07-04,254
+P001,Soft Drink X,Bengaluru,2025-07-04,260
+P002,Mithai Y,Delhi,2025-07-04,88
+P002,Mithai Y,Mumbai,2025-07-04,94
+P002,Mithai Y,Kolkata,2025-07-04,158
+P002,Mithai Y,Chennai,2025-07-04,119
+P002,Mithai Y,Bengaluru,2025-07-04,144
+P003,Cold Cream Z,Delhi,2025-07-04,72
+P003,Cold Cream Z,Mumbai,2025-07-04,72
+P003,Cold Cream Z,Kolkata,2025-07-04,39
+P003,Cold Cream Z,Chennai,2025-07-04,74
+P003,Cold Cream Z,Bengaluru,2025-07-04,17
+P004,T-Shirt,Delhi,2025-07-04,179
+P004,T-Shirt,Mumbai,2025-07-04,177
+P004,T-Shirt,Kolkata,2025-07-04,165
+P004,T-Shirt,Chennai,2025-07-04,179
+P004,T-Shirt,Bengaluru,2025-07-04,164
+P005,Face Mask,Delhi,2025-07-04,217
+P005,Face Mask,Mumbai,2025-07-04,277
+P005,Face Mask,Kolkata,2025-07-04,219
+P005,Face Mask,Chennai,2025-07-04,246
+P005,Face Mask,Bengaluru,2025-07-04,216
+P001,Soft Drink X,Delhi,2025-07-05,287
+P001,Soft Drink X,Mumbai,2025-07-05,284
+P001,Soft Drink X,Kolkata,2025-07-05,238
+P001,Soft Drink X,Chennai,2025-07-05,227
+P001,Soft Drink X,Bengaluru,2025-07-05,246
+P002,Mithai Y,Delhi,2025-07-05,158
+P002,Mithai Y,Mumbai,2025-07-05,125
+P002,Mithai Y,Kolkata,2025-07-05,108
+P002,Mithai Y,Chennai,2025-07-05,79
+P002,Mithai Y,Bengaluru,2025-07-05,121
+P003,Cold Cream Z,Delhi,2025-07-05,59
+P003,Cold Cream Z,Mumbai,2025-07-05,33
+P003,Cold Cream Z,Kolkata,2025-07-05,41
+P003,Cold Cream Z,Chennai,2025-07-05,48
+P003,Cold Cream Z,Bengaluru,2025-07-05,48
+P004,T-Shirt,Delhi,2025-07-05,136
+P004,T-Shirt,Mumbai,2025-07-05,157
+P004,T-Shirt,Kolkata,2025-07-05,172
+P004,T-Shirt,Chennai,2025-07-05,169
+P004,T-Shirt,Bengaluru,2025-07-05,179
+P005,Face Mask,Delhi,2025-07-05,177
+P005,Face Mask,Mumbai,2025-07-05,265
+P005,Face Mask,Kolkata,2025-07-05,214
+P005,Face Mask,Chennai,2025-07-05,243
+P005,Face Mask,Bengaluru,2025-07-05,192
+P001,Soft Drink X,Delhi,2025-07-06,264
+P001,Soft Drink X,Mumbai,2025-07-06,318
+P001,Soft Drink X,Kolkata,2025-07-06,252
+P001,Soft Drink X,Chennai,2025-07-06,267
+P001,Soft Drink X,Bengaluru,2025-07-06,275
+P002,Mithai Y,Delhi,2025-07-06,137
+P002,Mithai Y,Mumbai,2025-07-06,103
+P002,Mithai Y,Kolkata,2025-07-06,89
+P002,Mithai Y,Chennai,2025-07-06,116
+P002,Mithai Y,Bengaluru,2025-07-06,107
+P003,Cold Cream Z,Delhi,2025-07-06,40
+P003,Cold Cream Z,Mumbai,2025-07-06,83
+P003,Cold Cream Z,Kolkata,2025-07-06,30
+P003,Cold Cream Z,Chennai,2025-07-06,58
+P003,Cold Cream Z,Bengaluru,2025-07-06,82
+P004,T-Shirt,Delhi,2025-07-06,128
+P004,T-Shirt,Mumbai,2025-07-06,195
+P004,T-Shirt,Kolkata,2025-07-06,178
+P004,T-Shirt,Chennai,2025-07-06,165
+P004,T-Shirt,Bengaluru,2025-07-06,177
+P005,Face Mask,Delhi,2025-07-06,199
+P005,Face Mask,Mumbai,2025-07-06,200
+P005,Face Mask,Kolkata,2025-07-06,186
+P005,Face Mask,Chennai,2025-07-06,213
+P005,Face Mask,Bengaluru,2025-07-06,181
+P001,Soft Drink X,Delhi,2025-07-07,221
+P001,Soft Drink X,Mumbai,2025-07-07,260
+P001,Soft Drink X,Kolkata,2025-07-07,243
+P001,Soft Drink X,Chennai,2025-07-07,233
+P001,Soft Drink X,Bengaluru,2025-07-07,271
+P002,Mithai Y,Delhi,2025-07-07,99
+P002,Mithai Y,Mumbai,2025-07-07,145
+P002,Mithai Y,Kolkata,2025-07-07,98
+P002,Mithai Y,Chennai,2025-07-07,141
+P002,Mithai Y,Bengaluru,2025-07-07,126
+P003,Cold Cream Z,Delhi,2025-07-07,81
+P003,Cold Cream Z,Mumbai,2025-07-07,88
+P003,Cold Cream Z,Kolkata,2025-07-07,45
+P003,Cold Cream Z,Chennai,2025-07-07,80
+P003,Cold Cream Z,Bengaluru,2025-07-07,62
+P004,T-Shirt,Delhi,2025-07-07,151
+P004,T-Shirt,Mumbai,2025-07-07,181
+P004,T-Shirt,Kolkata,2025-07-07,198
+P004,T-Shirt,Chennai,2025-07-07,157
+P004,T-Shirt,Bengaluru,2025-07-07,224
+P005,Face Mask,Delhi,2025-07-07,219
+P005,Face Mask,Mumbai,2025-07-07,215
+P005,Face Mask,Kolkata,2025-07-07,219
+P005,Face Mask,Chennai,2025-07-07,218
+P005,Face Mask,Bengaluru,2025-07-07,224
+P001,Soft Drink X,Delhi,2025-07-08,226
+P001,Soft Drink X,Mumbai,2025-07-08,291
+P001,Soft Drink X,Kolkata,2025-07-08,225
+P001,Soft Drink X,Chennai,2025-07-08,277
+P001,Soft Drink X,Bengaluru,2025-07-08,210
+P002,Mithai Y,Delhi,2025-07-08,167
+P002,Mithai Y,Mumbai,2025-07-08,139
+P002,Mithai Y,Kolkata,2025-07-08,124
+P002,Mithai Y,Chennai,2025-07-08,144
+P002,Mithai Y,Bengaluru,2025-07-08,96
+P003,Cold Cream Z,Delhi,2025-07-08,155
+P003,Cold Cream Z,Mumbai,2025-07-08,39
+P003,Cold Cream Z,Kolkata,2025-07-08,40
+P003,Cold Cream Z,Chennai,2025-07-08,75
+P003,Cold Cream Z,Bengaluru,2025-07-08,73
+P004,T-Shirt,Delhi,2025-07-08,185
+P004,T-Shirt,Mumbai,2025-07-08,183
+P004,T-Shirt,Kolkata,2025-07-08,182
+P004,T-Shirt,Chennai,2025-07-08,192
+P004,T-Shirt,Bengaluru,2025-07-08,216
+P005,Face Mask,Delhi,2025-07-08,196
+P005,Face Mask,Mumbai,2025-07-08,205
+P005,Face Mask,Kolkata,2025-07-08,189
+P005,Face Mask,Chennai,2025-07-08,187
+P005,Face Mask,Bengaluru,2025-07-08,241
+P001,Soft Drink X,Delhi,2025-07-09,263
+P001,Soft Drink X,Mumbai,2025-07-09,258
+P001,Soft Drink X,Kolkata,2025-07-09,239
+P001,Soft Drink X,Chennai,2025-07-09,264
+P001,Soft Drink X,Bengaluru,2025-07-09,240
+P002,Mithai Y,Delhi,2025-07-09,78
+P002,Mithai Y,Mumbai,2025-07-09,150
+P002,Mithai Y,Kolkata,2025-07-09,148
+P002,Mithai Y,Chennai,2025-07-09,138
+P002,Mithai Y,Bengaluru,2025-07-09,175
+P003,Cold Cream Z,Delhi,2025-07-09,47
+P003,Cold Cream Z,Mumbai,2025-07-09,59
+P003,Cold Cream Z,Kolkata,2025-07-09,73
+P003,Cold Cream Z,Chennai,2025-07-09,71
+P003,Cold Cream Z,Bengaluru,2025-07-09,107
+P004,T-Shirt,Delhi,2025-07-09,170
+P004,T-Shirt,Mumbai,2025-07-09,186
+P004,T-Shirt,Kolkata,2025-07-09,178
+P004,T-Shirt,Chennai,2025-07-09,117
+P004,T-Shirt,Bengaluru,2025-07-09,165
+P005,Face Mask,Delhi,2025-07-09,272
+P005,Face Mask,Mumbai,2025-07-09,219
+P005,Face Mask,Kolkata,2025-07-09,251
+P005,Face Mask,Chennai,2025-07-09,208
+P005,Face Mask,Bengaluru,2025-07-09,232
+P001,Soft Drink X,Delhi,2025-07-10,216
+P001,Soft Drink X,Mumbai,2025-07-10,250
+P001,Soft Drink X,Kolkata,2025-07-10,240
+P001,Soft Drink X,Chennai,2025-07-10,235
+P001,Soft Drink X,Bengaluru,2025-07-10,234
+P002,Mithai Y,Delhi,2025-07-10,87
+P002,Mithai Y,Mumbai,2025-07-10,137
+P002,Mithai Y,Kolkata,2025-07-10,151
+P002,Mithai Y,Chennai,2025-07-10,102
+P002,Mithai Y,Bengaluru,2025-07-10,156
+P003,Cold Cream Z,Delhi,2025-07-10,3
+P003,Cold Cream Z,Mumbai,2025-07-10,50
+P003,Cold Cream Z,Kolkata,2025-07-10,68
+P003,Cold Cream Z,Chennai,2025-07-10,58
+P003,Cold Cream Z,Bengaluru,2025-07-10,45
+P004,T-Shirt,Delhi,2025-07-10,173
+P004,T-Shirt,Mumbai,2025-07-10,179
+P004,T-Shirt,Kolkata,2025-07-10,210
+P004,T-Shirt,Chennai,2025-07-10,200
+P004,T-Shirt,Bengaluru,2025-07-10,168
+P005,Face Mask,Delhi,2025-07-10,197
+P005,Face Mask,Mumbai,2025-07-10,216
+P005,Face Mask,Kolkata,2025-07-10,215
+P005,Face Mask,Chennai,2025-07-10,207
+P005,Face Mask,Bengaluru,2025-07-10,236
+P001,Soft Drink X,Delhi,2025-07-11,274
+P001,Soft Drink X,Mumbai,2025-07-11,216
+P001,Soft Drink X,Kolkata,2025-07-11,297
+P001,Soft Drink X,Chennai,2025-07-11,267
+P001,Soft Drink X,Bengaluru,2025-07-11,249
+P002,Mithai Y,Delhi,2025-07-11,115
+P002,Mithai Y,Mumbai,2025-07-11,90
+P002,Mithai Y,Kolkata,2025-07-11,113
+P002,Mithai Y,Chennai,2025-07-11,90
+P002,Mithai Y,Bengaluru,2025-07-11,112
+P003,Cold Cream Z,Delhi,2025-07-11,71
+P003,Cold Cream Z,Mumbai,2025-07-11,55
+P003,Cold Cream Z,Kolkata,2025-07-11,26
+P003,Cold Cream Z,Chennai,2025-07-11,37
+P003,Cold Cream Z,Bengaluru,2025-07-11,50
+P004,T-Shirt,Delhi,2025-07-11,152
+P004,T-Shirt,Mumbai,2025-07-11,180
+P004,T-Shirt,Kolkata,2025-07-11,221
+P004,T-Shirt,Chennai,2025-07-11,115
+P004,T-Shirt,Bengaluru,2025-07-11,142
+P005,Face Mask,Delhi,2025-07-11,225
+P005,Face Mask,Mumbai,2025-07-11,189
+P005,Face Mask,Kolkata,2025-07-11,209
+P005,Face Mask,Chennai,2025-07-11,236
+P005,Face Mask,Bengaluru,2025-07-11,211
+P001,Soft Drink X,Delhi,2025-07-12,207
+P001,Soft Drink X,Mumbai,2025-07-12,235
+P001,Soft Drink X,Kolkata,2025-07-12,259
+P001,Soft Drink X,Chennai,2025-07-12,204
+P001,Soft Drink X,Bengaluru,2025-07-12,237
+P002,Mithai Y,Delhi,2025-07-12,101
+P002,Mithai Y,Mumbai,2025-07-12,83
+P002,Mithai Y,Kolkata,2025-07-12,112
+P002,Mithai Y,Chennai,2025-07-12,75
+P002,Mithai Y,Bengaluru,2025-07-12,122
+P003,Cold Cream Z,Delhi,2025-07-12,122
+P003,Cold Cream Z,Mumbai,2025-07-12,45
+P003,Cold Cream Z,Kolkata,2025-07-12,82
+P003,Cold Cream Z,Chennai,2025-07-12,87
+P003,Cold Cream Z,Bengaluru,2025-07-12,63
+P004,T-Shirt,Delhi,2025-07-12,189
+P004,T-Shirt,Mumbai,2025-07-12,195
+P004,T-Shirt,Kolkata,2025-07-12,182
+P004,T-Shirt,Chennai,2025-07-12,205
+P004,T-Shirt,Bengaluru,2025-07-12,167
+P005,Face Mask,Delhi,2025-07-12,220
+P005,Face Mask,Mumbai,2025-07-12,176
+P005,Face Mask,Kolkata,2025-07-12,243
+P005,Face Mask,Chennai,2025-07-12,280
+P005,Face Mask,Bengaluru,2025-07-12,214
+P001,Soft Drink X,Delhi,2025-07-13,280
+P001,Soft Drink X,Mumbai,2025-07-13,192
+P001,Soft Drink X,Kolkata,2025-07-13,265
+P001,Soft Drink X,Chennai,2025-07-13,261
+P001,Soft Drink X,Bengaluru,2025-07-13,229
+P002,Mithai Y,Delhi,2025-07-13,123
+P002,Mithai Y,Mumbai,2025-07-13,87
+P002,Mithai Y,Kolkata,2025-07-13,144
+P002,Mithai Y,Chennai,2025-07-13,127
+P002,Mithai Y,Bengaluru,2025-07-13,67
+P003,Cold Cream Z,Delhi,2025-07-13,77
+P003,Cold Cream Z,Mumbai,2025-07-13,62
+P003,Cold Cream Z,Kolkata,2025-07-13,86
+P003,Cold Cream Z,Chennai,2025-07-13,47
+P003,Cold Cream Z,Bengaluru,2025-07-13,48
+P004,T-Shirt,Delhi,2025-07-13,169
+P004,T-Shirt,Mumbai,2025-07-13,185
+P004,T-Shirt,Kolkata,2025-07-13,164
+P004,T-Shirt,Chennai,2025-07-13,158
+P004,T-Shirt,Bengaluru,2025-07-13,119
+P005,Face Mask,Delhi,2025-07-13,252
+P005,Face Mask,Mumbai,2025-07-13,243
+P005,Face Mask,Kolkata,2025-07-13,207
+P005,Face Mask,Chennai,2025-07-13,223
+P005,Face Mask,Bengaluru,2025-07-13,216
+P001,Soft Drink X,Delhi,2025-07-14,224
+P001,Soft Drink X,Mumbai,2025-07-14,264
+P001,Soft Drink X,Kolkata,2025-07-14,242
+P001,Soft Drink X,Chennai,2025-07-14,294
+P001,Soft Drink X,Bengaluru,2025-07-14,255
+P002,Mithai Y,Delhi,2025-07-14,94
+P002,Mithai Y,Mumbai,2025-07-14,102
+P002,Mithai Y,Kolkata,2025-07-14,146
+P002,Mithai Y,Chennai,2025-07-14,155
+P002,Mithai Y,Bengaluru,2025-07-14,112
+P003,Cold Cream Z,Delhi,2025-07-14,37
+P003,Cold Cream Z,Mumbai,2025-07-14,48
+P003,Cold Cream Z,Kolkata,2025-07-14,49
+P003,Cold Cream Z,Chennai,2025-07-14,42
+P003,Cold Cream Z,Bengaluru,2025-07-14,94
+P004,T-Shirt,Delhi,2025-07-14,187
+P004,T-Shirt,Mumbai,2025-07-14,166
+P004,T-Shirt,Kolkata,2025-07-14,184
+P004,T-Shirt,Chennai,2025-07-14,155
+P004,T-Shirt,Bengaluru,2025-07-14,193
+P005,Face Mask,Delhi,2025-07-14,215
+P005,Face Mask,Mumbai,2025-07-14,224
+P005,Face Mask,Kolkata,2025-07-14,193
+P005,Face Mask,Chennai,2025-07-14,187
+P005,Face Mask,Bengaluru,2025-07-14,262
+P001,Soft Drink X,Delhi,2025-07-15,198
+P001,Soft Drink X,Mumbai,2025-07-15,212
+P001,Soft Drink X,Kolkata,2025-07-15,248
+P001,Soft Drink X,Chennai,2025-07-15,224
+P001,Soft Drink X,Bengaluru,2025-07-15,232
+P002,Mithai Y,Delhi,2025-07-15,129
+P002,Mithai Y,Mumbai,2025-07-15,141
+P002,Mithai Y,Kolkata,2025-07-15,107
+P002,Mithai Y,Chennai,2025-07-15,99
+P002,Mithai Y,Bengaluru,2025-07-15,121
+P003,Cold Cream Z,Delhi,2025-07-15,56
+P003,Cold Cream Z,Mumbai,2025-07-15,24
+P003,Cold Cream Z,Kolkata,2025-07-15,16
+P003,Cold Cream Z,Chennai,2025-07-15,31
+P003,Cold Cream Z,Bengaluru,2025-07-15,60
+P004,T-Shirt,Delhi,2025-07-15,205
+P004,T-Shirt,Mumbai,2025-07-15,158
+P004,T-Shirt,Kolkata,2025-07-15,214
+P004,T-Shirt,Chennai,2025-07-15,194
+P004,T-Shirt,Bengaluru,2025-07-15,196
+P005,Face Mask,Delhi,2025-07-15,254
+P005,Face Mask,Mumbai,2025-07-15,197
+P005,Face Mask,Kolkata,2025-07-15,229
+P005,Face Mask,Chennai,2025-07-15,211
+P005,Face Mask,Bengaluru,2025-07-15,224
+P001,Soft Drink X,Delhi,2025-07-16,222
+P001,Soft Drink X,Mumbai,2025-07-16,228
+P001,Soft Drink X,Kolkata,2025-07-16,270
+P001,Soft Drink X,Chennai,2025-07-16,230
+P001,Soft Drink X,Bengaluru,2025-07-16,244
+P002,Mithai Y,Delhi,2025-07-16,114
+P002,Mithai Y,Mumbai,2025-07-16,104
+P002,Mithai Y,Kolkata,2025-07-16,117
+P002,Mithai Y,Chennai,2025-07-16,104
+P002,Mithai Y,Bengaluru,2025-07-16,170
+P003,Cold Cream Z,Delhi,2025-07-16,94
+P003,Cold Cream Z,Mumbai,2025-07-16,61
+P003,Cold Cream Z,Kolkata,2025-07-16,78
+P003,Cold Cream Z,Chennai,2025-07-16,52
+P003,Cold Cream Z,Bengaluru,2025-07-16,71
+P004,T-Shirt,Delhi,2025-07-16,209
+P004,T-Shirt,Mumbai,2025-07-16,154
+P004,T-Shirt,Kolkata,2025-07-16,176
+P004,T-Shirt,Chennai,2025-07-16,190
+P004,T-Shirt,Bengaluru,2025-07-16,173
+P005,Face Mask,Delhi,2025-07-16,185
+P005,Face Mask,Mumbai,2025-07-16,266
+P005,Face Mask,Kolkata,2025-07-16,237
+P005,Face Mask,Chennai,2025-07-16,191
+P005,Face Mask,Bengaluru,2025-07-16,260
+P001,Soft Drink X,Delhi,2025-07-17,199
+P001,Soft Drink X,Mumbai,2025-07-17,242
+P001,Soft Drink X,Kolkata,2025-07-17,248
+P001,Soft Drink X,Chennai,2025-07-17,230
+P001,Soft Drink X,Bengaluru,2025-07-17,233
+P002,Mithai Y,Delhi,2025-07-17,152
+P002,Mithai Y,Mumbai,2025-07-17,131
+P002,Mithai Y,Kolkata,2025-07-17,95
+P002,Mithai Y,Chennai,2025-07-17,146
+P002,Mithai Y,Bengaluru,2025-07-17,84
+P003,Cold Cream Z,Delhi,2025-07-17,58
+P003,Cold Cream Z,Mumbai,2025-07-17,20
+P003,Cold Cream Z,Kolkata,2025-07-17,41
+P003,Cold Cream Z,Chennai,2025-07-17,49
+P003,Cold Cream Z,Bengaluru,2025-07-17,48
+P004,T-Shirt,Delhi,2025-07-17,185
+P004,T-Shirt,Mumbai,2025-07-17,231
+P004,T-Shirt,Kolkata,2025-07-17,172
+P004,T-Shirt,Chennai,2025-07-17,171
+P004,T-Shirt,Bengaluru,2025-07-17,177
+P005,Face Mask,Delhi,2025-07-17,217
+P005,Face Mask,Mumbai,2025-07-17,191
+P005,Face Mask,Kolkata,2025-07-17,185
+P005,Face Mask,Chennai,2025-07-17,239
+P005,Face Mask,Bengaluru,2025-07-17,238
+P001,Soft Drink X,Delhi,2025-07-18,265
+P001,Soft Drink X,Mumbai,2025-07-18,262
+P001,Soft Drink X,Kolkata,2025-07-18,290
+P001,Soft Drink X,Chennai,2025-07-18,250
+P001,Soft Drink X,Bengaluru,2025-07-18,249
+P002,Mithai Y,Delhi,2025-07-18,141
+P002,Mithai Y,Mumbai,2025-07-18,115
+P002,Mithai Y,Kolkata,2025-07-18,94
+P002,Mithai Y,Chennai,2025-07-18,129
+P002,Mithai Y,Bengaluru,2025-07-18,120
+P003,Cold Cream Z,Delhi,2025-07-18,60
+P003,Cold Cream Z,Mumbai,2025-07-18,84
+P003,Cold Cream Z,Kolkata,2025-07-18,55
+P003,Cold Cream Z,Chennai,2025-07-18,54
+P003,Cold Cream Z,Bengaluru,2025-07-18,39
+P004,T-Shirt,Delhi,2025-07-18,178
+P004,T-Shirt,Mumbai,2025-07-18,183
+P004,T-Shirt,Kolkata,2025-07-18,155
+P004,T-Shirt,Chennai,2025-07-18,166
+P004,T-Shirt,Bengaluru,2025-07-18,203
+P005,Face Mask,Delhi,2025-07-18,183
+P005,Face Mask,Mumbai,2025-07-18,225
+P005,Face Mask,Kolkata,2025-07-18,217
+P005,Face Mask,Chennai,2025-07-18,233
+P005,Face Mask,Bengaluru,2025-07-18,239
+P001,Soft Drink X,Delhi,2025-07-19,230
+P001,Soft Drink X,Mumbai,2025-07-19,253
+P001,Soft Drink X,Kolkata,2025-07-19,239
+P001,Soft Drink X,Chennai,2025-07-19,226
+P001,Soft Drink X,Bengaluru,2025-07-19,207
+P002,Mithai Y,Delhi,2025-07-19,120
+P002,Mithai Y,Mumbai,2025-07-19,82
+P002,Mithai Y,Kolkata,2025-07-19,148
+P002,Mithai Y,Chennai,2025-07-19,126
+P002,Mithai Y,Bengaluru,2025-07-19,130
+P003,Cold Cream Z,Delhi,2025-07-19,112
+P003,Cold Cream Z,Mumbai,2025-07-19,71
+P003,Cold Cream Z,Kolkata,2025-07-19,49
+P003,Cold Cream Z,Chennai,2025-07-19,70
+P003,Cold Cream Z,Bengaluru,2025-07-19,66
+P004,T-Shirt,Delhi,2025-07-19,223
+P004,T-Shirt,Mumbai,2025-07-19,146
+P004,T-Shirt,Kolkata,2025-07-19,206
+P004,T-Shirt,Chennai,2025-07-19,218
+P004,T-Shirt,Bengaluru,2025-07-19,199
+P005,Face Mask,Delhi,2025-07-19,191
+P005,Face Mask,Mumbai,2025-07-19,182
+P005,Face Mask,Kolkata,2025-07-19,217
+P005,Face Mask,Chennai,2025-07-19,195
+P005,Face Mask,Bengaluru,2025-07-19,221
+P001,Soft Drink X,Delhi,2025-07-20,281
+P001,Soft Drink X,Mumbai,2025-07-20,263
+P001,Soft Drink X,Kolkata,2025-07-20,235
+P001,Soft Drink X,Chennai,2025-07-20,292
+P001,Soft Drink X,Bengaluru,2025-07-20,237
+P002,Mithai Y,Delhi,2025-07-20,97
+P002,Mithai Y,Mumbai,2025-07-20,135
+P002,Mithai Y,Kolkata,2025-07-20,122
+P002,Mithai Y,Chennai,2025-07-20,117
+P002,Mithai Y,Bengaluru,2025-07-20,146
+P003,Cold Cream Z,Delhi,2025-07-20,99
+P003,Cold Cream Z,Mumbai,2025-07-20,47
+P003,Cold Cream Z,Kolkata,2025-07-20,34
+P003,Cold Cream Z,Chennai,2025-07-20,60
+P003,Cold Cream Z,Bengaluru,2025-07-20,110
+P004,T-Shirt,Delhi,2025-07-20,196
+P004,T-Shirt,Mumbai,2025-07-20,166
+P004,T-Shirt,Kolkata,2025-07-20,185
+P004,T-Shirt,Chennai,2025-07-20,207
+P004,T-Shirt,Bengaluru,2025-07-20,185
+P005,Face Mask,Delhi,2025-07-20,230
+P005,Face Mask,Mumbai,2025-07-20,197
+P005,Face Mask,Kolkata,2025-07-20,215
+P005,Face Mask,Chennai,2025-07-20,211
+P005,Face Mask,Bengaluru,2025-07-20,233
+P001,Soft Drink X,Delhi,2025-07-21,252
+P001,Soft Drink X,Mumbai,2025-07-21,208
+P001,Soft Drink X,Kolkata,2025-07-21,241
+P001,Soft Drink X,Chennai,2025-07-21,258
+P001,Soft Drink X,Bengaluru,2025-07-21,228
+P002,Mithai Y,Delhi,2025-07-21,142
+P002,Mithai Y,Mumbai,2025-07-21,165
+P002,Mithai Y,Kolkata,2025-07-21,110
+P002,Mithai Y,Chennai,2025-07-21,128
+P002,Mithai Y,Bengaluru,2025-07-21,132
+P003,Cold Cream Z,Delhi,2025-07-21,25
+P003,Cold Cream Z,Mumbai,2025-07-21,70
+P003,Cold Cream Z,Kolkata,2025-07-21,72
+P003,Cold Cream Z,Chennai,2025-07-21,43
+P003,Cold Cream Z,Bengaluru,2025-07-21,99
+P004,T-Shirt,Delhi,2025-07-21,206
+P004,T-Shirt,Mumbai,2025-07-21,165
+P004,T-Shirt,Kolkata,2025-07-21,181
+P004,T-Shirt,Chennai,2025-07-21,189
+P004,T-Shirt,Bengaluru,2025-07-21,167
+P005,Face Mask,Delhi,2025-07-21,237
+P005,Face Mask,Mumbai,2025-07-21,186
+P005,Face Mask,Kolkata,2025-07-21,247
+P005,Face Mask,Chennai,2025-07-21,200
+P005,Face Mask,Bengaluru,2025-07-21,229
+P001,Soft Drink X,Delhi,2025-07-22,273
+P001,Soft Drink X,Mumbai,2025-07-22,261
+P001,Soft Drink X,Kolkata,2025-07-22,249
+P001,Soft Drink X,Chennai,2025-07-22,265
+P001,Soft Drink X,Bengaluru,2025-07-22,241
+P002,Mithai Y,Delhi,2025-07-22,109
+P002,Mithai Y,Mumbai,2025-07-22,108
+P002,Mithai Y,Kolkata,2025-07-22,99
+P002,Mithai Y,Chennai,2025-07-22,128
+P002,Mithai Y,Bengaluru,2025-07-22,141
+P003,Cold Cream Z,Delhi,2025-07-22,41
+P003,Cold Cream Z,Mumbai,2025-07-22,80
+P003,Cold Cream Z,Kolkata,2025-07-22,62
+P003,Cold Cream Z,Chennai,2025-07-22,92
+P003,Cold Cream Z,Bengaluru,2025-07-22,81
+P004,T-Shirt,Delhi,2025-07-22,169
+P004,T-Shirt,Mumbai,2025-07-22,206
+P004,T-Shirt,Kolkata,2025-07-22,189
+P004,T-Shirt,Chennai,2025-07-22,143
+P004,T-Shirt,Bengaluru,2025-07-22,199
+P005,Face Mask,Delhi,2025-07-22,259
+P005,Face Mask,Mumbai,2025-07-22,199
+P005,Face Mask,Kolkata,2025-07-22,227
+P005,Face Mask,Chennai,2025-07-22,237
+P005,Face Mask,Bengaluru,2025-07-22,193
+P001,Soft Drink X,Delhi,2025-07-23,249
+P001,Soft Drink X,Mumbai,2025-07-23,269
+P001,Soft Drink X,Kolkata,2025-07-23,298
+P001,Soft Drink X,Chennai,2025-07-23,236
+P001,Soft Drink X,Bengaluru,2025-07-23,249
+P002,Mithai Y,Delhi,2025-07-23,155
+P002,Mithai Y,Mumbai,2025-07-23,91
+P002,Mithai Y,Kolkata,2025-07-23,141
+P002,Mithai Y,Chennai,2025-07-23,125
+P002,Mithai Y,Bengaluru,2025-07-23,94
+P003,Cold Cream Z,Delhi,2025-07-23,56
+P003,Cold Cream Z,Mumbai,2025-07-23,74
+P003,Cold Cream Z,Kolkata,2025-07-23,67
+P003,Cold Cream Z,Chennai,2025-07-23,105
+P003,Cold Cream Z,Bengaluru,2025-07-23,67
+P004,T-Shirt,Delhi,2025-07-23,166
+P004,T-Shirt,Mumbai,2025-07-23,233
+P004,T-Shirt,Kolkata,2025-07-23,195
+P004,T-Shirt,Chennai,2025-07-23,212
+P004,T-Shirt,Bengaluru,2025-07-23,174
+P005,Face Mask,Delhi,2025-07-23,209
+P005,Face Mask,Mumbai,2025-07-23,201
+P005,Face Mask,Kolkata,2025-07-23,181
+P005,Face Mask,Chennai,2025-07-23,209
+P005,Face Mask,Bengaluru,2025-07-23,188
+P001,Soft Drink X,Delhi,2025-07-24,243
+P001,Soft Drink X,Mumbai,2025-07-24,232
+P001,Soft Drink X,Kolkata,2025-07-24,236
+P001,Soft Drink X,Chennai,2025-07-24,221
+P001,Soft Drink X,Bengaluru,2025-07-24,269
+P002,Mithai Y,Delhi,2025-07-24,139
+P002,Mithai Y,Mumbai,2025-07-24,125
+P002,Mithai Y,Kolkata,2025-07-24,120
+P002,Mithai Y,Chennai,2025-07-24,112
+P002,Mithai Y,Bengaluru,2025-07-24,145
+P003,Cold Cream Z,Delhi,2025-07-24,55
+P003,Cold Cream Z,Mumbai,2025-07-24,66
+P003,Cold Cream Z,Kolkata,2025-07-24,36
+P003,Cold Cream Z,Chennai,2025-07-24,49
+P003,Cold Cream Z,Bengaluru,2025-07-24,56
+P004,T-Shirt,Delhi,2025-07-24,183
+P004,T-Shirt,Mumbai,2025-07-24,180
+P004,T-Shirt,Kolkata,2025-07-24,217
+P004,T-Shirt,Chennai,2025-07-24,177
+P004,T-Shirt,Bengaluru,2025-07-24,139
+P005,Face Mask,Delhi,2025-07-24,177
+P005,Face Mask,Mumbai,2025-07-24,220
+P005,Face Mask,Kolkata,2025-07-24,219
+P005,Face Mask,Chennai,2025-07-24,193
+P005,Face Mask,Bengaluru,2025-07-24,227
+P001,Soft Drink X,Delhi,2025-07-25,215
+P001,Soft Drink X,Mumbai,2025-07-25,276
+P001,Soft Drink X,Kolkata,2025-07-25,281
+P001,Soft Drink X,Chennai,2025-07-25,244
+P001,Soft Drink X,Bengaluru,2025-07-25,277
+P002,Mithai Y,Delhi,2025-07-25,148
+P002,Mithai Y,Mumbai,2025-07-25,84
+P002,Mithai Y,Kolkata,2025-07-25,167
+P002,Mithai Y,Chennai,2025-07-25,129
+P002,Mithai Y,Bengaluru,2025-07-25,99
+P003,Cold Cream Z,Delhi,2025-07-25,82
+P003,Cold Cream Z,Mumbai,2025-07-25,84
+P003,Cold Cream Z,Kolkata,2025-07-25,52
+P003,Cold Cream Z,Chennai,2025-07-25,41
+P003,Cold Cream Z,Bengaluru,2025-07-25,85
+P004,T-Shirt,Delhi,2025-07-25,160
+P004,T-Shirt,Mumbai,2025-07-25,189
+P004,T-Shirt,Kolkata,2025-07-25,181
+P004,T-Shirt,Chennai,2025-07-25,151
+P004,T-Shirt,Bengaluru,2025-07-25,154
+P005,Face Mask,Delhi,2025-07-25,261
+P005,Face Mask,Mumbai,2025-07-25,236
+P005,Face Mask,Kolkata,2025-07-25,186
+P005,Face Mask,Chennai,2025-07-25,187
+P005,Face Mask,Bengaluru,2025-07-25,184
+P001,Soft Drink X,Delhi,2025-07-26,252
+P001,Soft Drink X,Mumbai,2025-07-26,241
+P001,Soft Drink X,Kolkata,2025-07-26,207
+P001,Soft Drink X,Chennai,2025-07-26,237
+P001,Soft Drink X,Bengaluru,2025-07-26,255
+P002,Mithai Y,Delhi,2025-07-26,168
+P002,Mithai Y,Mumbai,2025-07-26,102
+P002,Mithai Y,Kolkata,2025-07-26,117
+P002,Mithai Y,Chennai,2025-07-26,113
+P002,Mithai Y,Bengaluru,2025-07-26,158
+P003,Cold Cream Z,Delhi,2025-07-26,81
+P003,Cold Cream Z,Mumbai,2025-07-26,28
+P003,Cold Cream Z,Kolkata,2025-07-26,78
+P003,Cold Cream Z,Chennai,2025-07-26,95
+P003,Cold Cream Z,Bengaluru,2025-07-26,70
+P004,T-Shirt,Delhi,2025-07-26,174
+P004,T-Shirt,Mumbai,2025-07-26,179
+P004,T-Shirt,Kolkata,2025-07-26,124
+P004,T-Shirt,Chennai,2025-07-26,172
+P004,T-Shirt,Bengaluru,2025-07-26,200
+P005,Face Mask,Delhi,2025-07-26,233
+P005,Face Mask,Mumbai,2025-07-26,223
+P005,Face Mask,Kolkata,2025-07-26,237
+P005,Face Mask,Chennai,2025-07-26,195
+P005,Face Mask,Bengaluru,2025-07-26,226
+P001,Soft Drink X,Delhi,2025-07-27,244
+P001,Soft Drink X,Mumbai,2025-07-27,230
+P001,Soft Drink X,Kolkata,2025-07-27,239
+P001,Soft Drink X,Chennai,2025-07-27,257
+P001,Soft Drink X,Bengaluru,2025-07-27,236
+P002,Mithai Y,Delhi,2025-07-27,95
+P002,Mithai Y,Mumbai,2025-07-27,114
+P002,Mithai Y,Kolkata,2025-07-27,106
+P002,Mithai Y,Chennai,2025-07-27,121
+P002,Mithai Y,Bengaluru,2025-07-27,74
+P003,Cold Cream Z,Delhi,2025-07-27,74
+P003,Cold Cream Z,Mumbai,2025-07-27,104
+P003,Cold Cream Z,Kolkata,2025-07-27,5
+P003,Cold Cream Z,Chennai,2025-07-27,73
+P003,Cold Cream Z,Bengaluru,2025-07-27,36
+P004,T-Shirt,Delhi,2025-07-27,155
+P004,T-Shirt,Mumbai,2025-07-27,202
+P004,T-Shirt,Kolkata,2025-07-27,226
+P004,T-Shirt,Chennai,2025-07-27,200
+P004,T-Shirt,Bengaluru,2025-07-27,200
+P005,Face Mask,Delhi,2025-07-27,221
+P005,Face Mask,Mumbai,2025-07-27,224
+P005,Face Mask,Kolkata,2025-07-27,232
+P005,Face Mask,Chennai,2025-07-27,193
+P005,Face Mask,Bengaluru,2025-07-27,195
+P001,Soft Drink X,Delhi,2025-07-28,224
+P001,Soft Drink X,Mumbai,2025-07-28,189
+P001,Soft Drink X,Kolkata,2025-07-28,242
+P001,Soft Drink X,Chennai,2025-07-28,255
+P001,Soft Drink X,Bengaluru,2025-07-28,279
+P002,Mithai Y,Delhi,2025-07-28,108
+P002,Mithai Y,Mumbai,2025-07-28,175
+P002,Mithai Y,Kolkata,2025-07-28,129
+P002,Mithai Y,Chennai,2025-07-28,75
+P002,Mithai Y,Bengaluru,2025-07-28,94
+P003,Cold Cream Z,Delhi,2025-07-28,68
+P003,Cold Cream Z,Mumbai,2025-07-28,56
+P003,Cold Cream Z,Kolkata,2025-07-28,69
+P003,Cold Cream Z,Chennai,2025-07-28,69
+P003,Cold Cream Z,Bengaluru,2025-07-28,43
+P004,T-Shirt,Delhi,2025-07-28,249
+P004,T-Shirt,Mumbai,2025-07-28,194
+P004,T-Shirt,Kolkata,2025-07-28,158
+P004,T-Shirt,Chennai,2025-07-28,177
+P004,T-Shirt,Bengaluru,2025-07-28,146
+P005,Face Mask,Delhi,2025-07-28,176
+P005,Face Mask,Mumbai,2025-07-28,207
+P005,Face Mask,Kolkata,2025-07-28,277
+P005,Face Mask,Chennai,2025-07-28,189
+P005,Face Mask,Bengaluru,2025-07-28,189
+P001,Soft Drink X,Delhi,2025-07-29,230
+P001,Soft Drink X,Mumbai,2025-07-29,268
+P001,Soft Drink X,Kolkata,2025-07-29,278
+P001,Soft Drink X,Chennai,2025-07-29,229
+P001,Soft Drink X,Bengaluru,2025-07-29,265
+P002,Mithai Y,Delhi,2025-07-29,106
+P002,Mithai Y,Mumbai,2025-07-29,152
+P002,Mithai Y,Kolkata,2025-07-29,125
+P002,Mithai Y,Chennai,2025-07-29,110
+P002,Mithai Y,Bengaluru,2025-07-29,139
+P003,Cold Cream Z,Delhi,2025-07-29,86
+P003,Cold Cream Z,Mumbai,2025-07-29,74
+P003,Cold Cream Z,Kolkata,2025-07-29,50
+P003,Cold Cream Z,Chennai,2025-07-29,56
+P003,Cold Cream Z,Bengaluru,2025-07-29,64
+P004,T-Shirt,Delhi,2025-07-29,188
+P004,T-Shirt,Mumbai,2025-07-29,189
+P004,T-Shirt,Kolkata,2025-07-29,166
+P004,T-Shirt,Chennai,2025-07-29,149
+P004,T-Shirt,Bengaluru,2025-07-29,174
+P005,Face Mask,Delhi,2025-07-29,214
+P005,Face Mask,Mumbai,2025-07-29,193
+P005,Face Mask,Kolkata,2025-07-29,229
+P005,Face Mask,Chennai,2025-07-29,189
+P005,Face Mask,Bengaluru,2025-07-29,216
+P001,Soft Drink X,Delhi,2025-07-30,242
+P001,Soft Drink X,Mumbai,2025-07-30,237
+P001,Soft Drink X,Kolkata,2025-07-30,233
+P001,Soft Drink X,Chennai,2025-07-30,253
+P001,Soft Drink X,Bengaluru,2025-07-30,289
+P002,Mithai Y,Delhi,2025-07-30,128
+P002,Mithai Y,Mumbai,2025-07-30,96
+P002,Mithai Y,Kolkata,2025-07-30,148
+P002,Mithai Y,Chennai,2025-07-30,102
+P002,Mithai Y,Bengaluru,2025-07-30,139
+P003,Cold Cream Z,Delhi,2025-07-30,81
+P003,Cold Cream Z,Mumbai,2025-07-30,85
+P003,Cold Cream Z,Kolkata,2025-07-30,29
+P003,Cold Cream Z,Chennai,2025-07-30,74
+P003,Cold Cream Z,Bengaluru,2025-07-30,104
+P004,T-Shirt,Delhi,2025-07-30,206
+P004,T-Shirt,Mumbai,2025-07-30,180
+P004,T-Shirt,Kolkata,2025-07-30,146
+P004,T-Shirt,Chennai,2025-07-30,208
+P004,T-Shirt,Bengaluru,2025-07-30,181
+P005,Face Mask,Delhi,2025-07-30,229
+P005,Face Mask,Mumbai,2025-07-30,275
+P005,Face Mask,Kolkata,2025-07-30,220
+P005,Face Mask,Chennai,2025-07-30,180
+P005,Face Mask,Bengaluru,2025-07-30,227
+P001,Soft Drink X,Delhi,2025-07-31,219
+P001,Soft Drink X,Mumbai,2025-07-31,226
+P001,Soft Drink X,Kolkata,2025-07-31,265
+P001,Soft Drink X,Chennai,2025-07-31,250
+P001,Soft Drink X,Bengaluru,2025-07-31,293
+P002,Mithai Y,Delhi,2025-07-31,87
+P002,Mithai Y,Mumbai,2025-07-31,101
+P002,Mithai Y,Kolkata,2025-07-31,80
+P002,Mithai Y,Chennai,2025-07-31,65
+P002,Mithai Y,Bengaluru,2025-07-31,116
+P003,Cold Cream Z,Delhi,2025-07-31,35
+P003,Cold Cream Z,Mumbai,2025-07-31,71
+P003,Cold Cream Z,Kolkata,2025-07-31,60
+P003,Cold Cream Z,Chennai,2025-07-31,50
+P003,Cold Cream Z,Bengaluru,2025-07-31,26
+P004,T-Shirt,Delhi,2025-07-31,211
+P004,T-Shirt,Mumbai,2025-07-31,198
+P004,T-Shirt,Kolkata,2025-07-31,191
+P004,T-Shirt,Chennai,2025-07-31,187
+P004,T-Shirt,Bengaluru,2025-07-31,152
+P005,Face Mask,Delhi,2025-07-31,203
+P005,Face Mask,Mumbai,2025-07-31,230
+P005,Face Mask,Kolkata,2025-07-31,199
+P005,Face Mask,Chennai,2025-07-31,176
+P005,Face Mask,Bengaluru,2025-07-31,237
+P001,Soft Drink X,Delhi,2025-08-01,260
+P001,Soft Drink X,Mumbai,2025-08-01,241
+P001,Soft Drink X,Kolkata,2025-08-01,231
+P001,Soft Drink X,Chennai,2025-08-01,186
+P001,Soft Drink X,Bengaluru,2025-08-01,222
+P002,Mithai Y,Delhi,2025-08-01,166
+P002,Mithai Y,Mumbai,2025-08-01,215
+P002,Mithai Y,Kolkata,2025-08-01,208
+P002,Mithai Y,Chennai,2025-08-01,236
+P002,Mithai Y,Bengaluru,2025-08-01,189
+P003,Cold Cream Z,Delhi,2025-08-01,77
+P003,Cold Cream Z,Mumbai,2025-08-01,43
+P003,Cold Cream Z,Kolkata,2025-08-01,40
+P003,Cold Cream Z,Chennai,2025-08-01,84
+P003,Cold Cream Z,Bengaluru,2025-08-01,112
+P004,T-Shirt,Delhi,2025-08-01,148
+P004,T-Shirt,Mumbai,2025-08-01,191
+P004,T-Shirt,Kolkata,2025-08-01,144
+P004,T-Shirt,Chennai,2025-08-01,183
+P004,T-Shirt,Bengaluru,2025-08-01,144
+P005,Face Mask,Delhi,2025-08-01,173
+P005,Face Mask,Mumbai,2025-08-01,219
+P005,Face Mask,Kolkata,2025-08-01,203
+P005,Face Mask,Chennai,2025-08-01,185
+P005,Face Mask,Bengaluru,2025-08-01,246
+P001,Soft Drink X,Delhi,2025-08-02,241
+P001,Soft Drink X,Mumbai,2025-08-02,208
+P001,Soft Drink X,Kolkata,2025-08-02,248
+P001,Soft Drink X,Chennai,2025-08-02,266
+P001,Soft Drink X,Bengaluru,2025-08-02,254
+P002,Mithai Y,Delhi,2025-08-02,212
+P002,Mithai Y,Mumbai,2025-08-02,232
+P002,Mithai Y,Kolkata,2025-08-02,208
+P002,Mithai Y,Chennai,2025-08-02,224
+P002,Mithai Y,Bengaluru,2025-08-02,189
+P003,Cold Cream Z,Delhi,2025-08-02,80
+P003,Cold Cream Z,Mumbai,2025-08-02,85
+P003,Cold Cream Z,Kolkata,2025-08-02,41
+P003,Cold Cream Z,Chennai,2025-08-02,80
+P003,Cold Cream Z,Bengaluru,2025-08-02,78
+P004,T-Shirt,Delhi,2025-08-02,213
+P004,T-Shirt,Mumbai,2025-08-02,166
+P004,T-Shirt,Kolkata,2025-08-02,185
+P004,T-Shirt,Chennai,2025-08-02,171
+P004,T-Shirt,Bengaluru,2025-08-02,190
+P005,Face Mask,Delhi,2025-08-02,214
+P005,Face Mask,Mumbai,2025-08-02,224
+P005,Face Mask,Kolkata,2025-08-02,193
+P005,Face Mask,Chennai,2025-08-02,173
+P005,Face Mask,Bengaluru,2025-08-02,223
+P001,Soft Drink X,Delhi,2025-08-03,242
+P001,Soft Drink X,Mumbai,2025-08-03,225
+P001,Soft Drink X,Kolkata,2025-08-03,256
+P001,Soft Drink X,Chennai,2025-08-03,259
+P001,Soft Drink X,Bengaluru,2025-08-03,260
+P002,Mithai Y,Delhi,2025-08-03,214
+P002,Mithai Y,Mumbai,2025-08-03,252
+P002,Mithai Y,Kolkata,2025-08-03,188
+P002,Mithai Y,Chennai,2025-08-03,259
+P002,Mithai Y,Bengaluru,2025-08-03,212
+P003,Cold Cream Z,Delhi,2025-08-03,101
+P003,Cold Cream Z,Mumbai,2025-08-03,32
+P003,Cold Cream Z,Kolkata,2025-08-03,83
+P003,Cold Cream Z,Chennai,2025-08-03,67
+P003,Cold Cream Z,Bengaluru,2025-08-03,54
+P004,T-Shirt,Delhi,2025-08-03,185
+P004,T-Shirt,Mumbai,2025-08-03,186
+P004,T-Shirt,Kolkata,2025-08-03,148
+P004,T-Shirt,Chennai,2025-08-03,166
+P004,T-Shirt,Bengaluru,2025-08-03,230
+P005,Face Mask,Delhi,2025-08-03,177
+P005,Face Mask,Mumbai,2025-08-03,195
+P005,Face Mask,Kolkata,2025-08-03,156
+P005,Face Mask,Chennai,2025-08-03,257
+P005,Face Mask,Bengaluru,2025-08-03,274
+P001,Soft Drink X,Delhi,2025-08-04,232
+P001,Soft Drink X,Mumbai,2025-08-04,203
+P001,Soft Drink X,Kolkata,2025-08-04,232
+P001,Soft Drink X,Chennai,2025-08-04,285
+P001,Soft Drink X,Bengaluru,2025-08-04,221
+P002,Mithai Y,Delhi,2025-08-04,163
+P002,Mithai Y,Mumbai,2025-08-04,195
+P002,Mithai Y,Kolkata,2025-08-04,219
+P002,Mithai Y,Chennai,2025-08-04,217
+P002,Mithai Y,Bengaluru,2025-08-04,202
+P003,Cold Cream Z,Delhi,2025-08-04,42
+P003,Cold Cream Z,Mumbai,2025-08-04,67
+P003,Cold Cream Z,Kolkata,2025-08-04,38
+P003,Cold Cream Z,Chennai,2025-08-04,42
+P003,Cold Cream Z,Bengaluru,2025-08-04,66
+P004,T-Shirt,Delhi,2025-08-04,181
+P004,T-Shirt,Mumbai,2025-08-04,188
+P004,T-Shirt,Kolkata,2025-08-04,163
+P004,T-Shirt,Chennai,2025-08-04,170
+P004,T-Shirt,Bengaluru,2025-08-04,157
+P005,Face Mask,Delhi,2025-08-04,252
+P005,Face Mask,Mumbai,2025-08-04,251
+P005,Face Mask,Kolkata,2025-08-04,236
+P005,Face Mask,Chennai,2025-08-04,238
+P005,Face Mask,Bengaluru,2025-08-04,210
+P001,Soft Drink X,Delhi,2025-08-05,263
+P001,Soft Drink X,Mumbai,2025-08-05,274
+P001,Soft Drink X,Kolkata,2025-08-05,254
+P001,Soft Drink X,Chennai,2025-08-05,205
+P001,Soft Drink X,Bengaluru,2025-08-05,235
+P002,Mithai Y,Delhi,2025-08-05,157
+P002,Mithai Y,Mumbai,2025-08-05,162
+P002,Mithai Y,Kolkata,2025-08-05,225
+P002,Mithai Y,Chennai,2025-08-05,218
+P002,Mithai Y,Bengaluru,2025-08-05,160
+P003,Cold Cream Z,Delhi,2025-08-05,26
+P003,Cold Cream Z,Mumbai,2025-08-05,19
+P003,Cold Cream Z,Kolkata,2025-08-05,19
+P003,Cold Cream Z,Chennai,2025-08-05,99
+P003,Cold Cream Z,Bengaluru,2025-08-05,43
+P004,T-Shirt,Delhi,2025-08-05,185
+P004,T-Shirt,Mumbai,2025-08-05,142
+P004,T-Shirt,Kolkata,2025-08-05,217
+P004,T-Shirt,Chennai,2025-08-05,150
+P004,T-Shirt,Bengaluru,2025-08-05,182
+P005,Face Mask,Delhi,2025-08-05,198
+P005,Face Mask,Mumbai,2025-08-05,252
+P005,Face Mask,Kolkata,2025-08-05,201
+P005,Face Mask,Chennai,2025-08-05,190
+P005,Face Mask,Bengaluru,2025-08-05,225
+P001,Soft Drink X,Delhi,2025-08-06,252
+P001,Soft Drink X,Mumbai,2025-08-06,191
+P001,Soft Drink X,Kolkata,2025-08-06,262
+P001,Soft Drink X,Chennai,2025-08-06,255
+P001,Soft Drink X,Bengaluru,2025-08-06,237
+P002,Mithai Y,Delhi,2025-08-06,196
+P002,Mithai Y,Mumbai,2025-08-06,178
+P002,Mithai Y,Kolkata,2025-08-06,176
+P002,Mithai Y,Chennai,2025-08-06,162
+P002,Mithai Y,Bengaluru,2025-08-06,179
+P003,Cold Cream Z,Delhi,2025-08-06,67
+P003,Cold Cream Z,Mumbai,2025-08-06,80
+P003,Cold Cream Z,Kolkata,2025-08-06,61
+P003,Cold Cream Z,Chennai,2025-08-06,73
+P003,Cold Cream Z,Bengaluru,2025-08-06,65
+P004,T-Shirt,Delhi,2025-08-06,118
+P004,T-Shirt,Mumbai,2025-08-06,186
+P004,T-Shirt,Kolkata,2025-08-06,145
+P004,T-Shirt,Chennai,2025-08-06,139
+P004,T-Shirt,Bengaluru,2025-08-06,178
+P005,Face Mask,Delhi,2025-08-06,188
+P005,Face Mask,Mumbai,2025-08-06,242
+P005,Face Mask,Kolkata,2025-08-06,248
+P005,Face Mask,Chennai,2025-08-06,228
+P005,Face Mask,Bengaluru,2025-08-06,201
+P001,Soft Drink X,Delhi,2025-08-07,196
+P001,Soft Drink X,Mumbai,2025-08-07,235
+P001,Soft Drink X,Kolkata,2025-08-07,216
+P001,Soft Drink X,Chennai,2025-08-07,262
+P001,Soft Drink X,Bengaluru,2025-08-07,261
+P002,Mithai Y,Delhi,2025-08-07,209
+P002,Mithai Y,Mumbai,2025-08-07,231
+P002,Mithai Y,Kolkata,2025-08-07,217
+P002,Mithai Y,Chennai,2025-08-07,207
+P002,Mithai Y,Bengaluru,2025-08-07,203
+P003,Cold Cream Z,Delhi,2025-08-07,52
+P003,Cold Cream Z,Mumbai,2025-08-07,39
+P003,Cold Cream Z,Kolkata,2025-08-07,49
+P003,Cold Cream Z,Chennai,2025-08-07,67
+P003,Cold Cream Z,Bengaluru,2025-08-07,64
+P004,T-Shirt,Delhi,2025-08-07,190
+P004,T-Shirt,Mumbai,2025-08-07,183
+P004,T-Shirt,Kolkata,2025-08-07,184
+P004,T-Shirt,Chennai,2025-08-07,173
+P004,T-Shirt,Bengaluru,2025-08-07,180
+P005,Face Mask,Delhi,2025-08-07,244
+P005,Face Mask,Mumbai,2025-08-07,179
+P005,Face Mask,Kolkata,2025-08-07,259
+P005,Face Mask,Chennai,2025-08-07,214
+P005,Face Mask,Bengaluru,2025-08-07,240
+P001,Soft Drink X,Delhi,2025-08-08,259
+P001,Soft Drink X,Mumbai,2025-08-08,245
+P001,Soft Drink X,Kolkata,2025-08-08,282
+P001,Soft Drink X,Chennai,2025-08-08,190
+P001,Soft Drink X,Bengaluru,2025-08-08,264
+P002,Mithai Y,Delhi,2025-08-08,216
+P002,Mithai Y,Mumbai,2025-08-08,200
+P002,Mithai Y,Kolkata,2025-08-08,193
+P002,Mithai Y,Chennai,2025-08-08,247
+P002,Mithai Y,Bengaluru,2025-08-08,231
+P003,Cold Cream Z,Delhi,2025-08-08,74
+P003,Cold Cream Z,Mumbai,2025-08-08,52
+P003,Cold Cream Z,Kolkata,2025-08-08,72
+P003,Cold Cream Z,Chennai,2025-08-08,58
+P003,Cold Cream Z,Bengaluru,2025-08-08,56
+P004,T-Shirt,Delhi,2025-08-08,170
+P004,T-Shirt,Mumbai,2025-08-08,133
+P004,T-Shirt,Kolkata,2025-08-08,186
+P004,T-Shirt,Chennai,2025-08-08,153
+P004,T-Shirt,Bengaluru,2025-08-08,191
+P005,Face Mask,Delhi,2025-08-08,224
+P005,Face Mask,Mumbai,2025-08-08,246
+P005,Face Mask,Kolkata,2025-08-08,232
+P005,Face Mask,Chennai,2025-08-08,251
+P005,Face Mask,Bengaluru,2025-08-08,264
+P001,Soft Drink X,Delhi,2025-08-09,251
+P001,Soft Drink X,Mumbai,2025-08-09,269
+P001,Soft Drink X,Kolkata,2025-08-09,236
+P001,Soft Drink X,Chennai,2025-08-09,244
+P001,Soft Drink X,Bengaluru,2025-08-09,273
+P002,Mithai Y,Delhi,2025-08-09,188
+P002,Mithai Y,Mumbai,2025-08-09,183
+P002,Mithai Y,Kolkata,2025-08-09,190
+P002,Mithai Y,Chennai,2025-08-09,178
+P002,Mithai Y,Bengaluru,2025-08-09,174
+P003,Cold Cream Z,Delhi,2025-08-09,22
+P003,Cold Cream Z,Mumbai,2025-08-09,70
+P003,Cold Cream Z,Kolkata,2025-08-09,73
+P003,Cold Cream Z,Chennai,2025-08-09,21
+P003,Cold Cream Z,Bengaluru,2025-08-09,53
+P004,T-Shirt,Delhi,2025-08-09,173
+P004,T-Shirt,Mumbai,2025-08-09,164
+P004,T-Shirt,Kolkata,2025-08-09,170
+P004,T-Shirt,Chennai,2025-08-09,173
+P004,T-Shirt,Bengaluru,2025-08-09,208
+P005,Face Mask,Delhi,2025-08-09,235
+P005,Face Mask,Mumbai,2025-08-09,198
+P005,Face Mask,Kolkata,2025-08-09,254
+P005,Face Mask,Chennai,2025-08-09,257
+P005,Face Mask,Bengaluru,2025-08-09,218
+P001,Soft Drink X,Delhi,2025-08-10,248
+P001,Soft Drink X,Mumbai,2025-08-10,304
+P001,Soft Drink X,Kolkata,2025-08-10,281
+P001,Soft Drink X,Chennai,2025-08-10,244
+P001,Soft Drink X,Bengaluru,2025-08-10,233
+P002,Mithai Y,Delhi,2025-08-10,222
+P002,Mithai Y,Mumbai,2025-08-10,123
+P002,Mithai Y,Kolkata,2025-08-10,206
+P002,Mithai Y,Chennai,2025-08-10,177
+P002,Mithai Y,Bengaluru,2025-08-10,224
+P003,Cold Cream Z,Delhi,2025-08-10,40
+P003,Cold Cream Z,Mumbai,2025-08-10,40
+P003,Cold Cream Z,Kolkata,2025-08-10,48
+P003,Cold Cream Z,Chennai,2025-08-10,14
+P003,Cold Cream Z,Bengaluru,2025-08-10,63
+P004,T-Shirt,Delhi,2025-08-10,174
+P004,T-Shirt,Mumbai,2025-08-10,162
+P004,T-Shirt,Kolkata,2025-08-10,188
+P004,T-Shirt,Chennai,2025-08-10,183
+P004,T-Shirt,Bengaluru,2025-08-10,174
+P005,Face Mask,Delhi,2025-08-10,245
+P005,Face Mask,Mumbai,2025-08-10,228
+P005,Face Mask,Kolkata,2025-08-10,196
+P005,Face Mask,Chennai,2025-08-10,243
+P005,Face Mask,Bengaluru,2025-08-10,208
+P001,Soft Drink X,Delhi,2025-08-11,252
+P001,Soft Drink X,Mumbai,2025-08-11,229
+P001,Soft Drink X,Kolkata,2025-08-11,240
+P001,Soft Drink X,Chennai,2025-08-11,258
+P001,Soft Drink X,Bengaluru,2025-08-11,191
+P002,Mithai Y,Delhi,2025-08-11,196
+P002,Mithai Y,Mumbai,2025-08-11,218
+P002,Mithai Y,Kolkata,2025-08-11,208
+P002,Mithai Y,Chennai,2025-08-11,175
+P002,Mithai Y,Bengaluru,2025-08-11,207
+P003,Cold Cream Z,Delhi,2025-08-11,62
+P003,Cold Cream Z,Mumbai,2025-08-11,45
+P003,Cold Cream Z,Kolkata,2025-08-11,56
+P003,Cold Cream Z,Chennai,2025-08-11,114
+P003,Cold Cream Z,Bengaluru,2025-08-11,13
+P004,T-Shirt,Delhi,2025-08-11,200
+P004,T-Shirt,Mumbai,2025-08-11,156
+P004,T-Shirt,Kolkata,2025-08-11,163
+P004,T-Shirt,Chennai,2025-08-11,180
+P004,T-Shirt,Bengaluru,2025-08-11,141
+P005,Face Mask,Delhi,2025-08-11,212
+P005,Face Mask,Mumbai,2025-08-11,203
+P005,Face Mask,Kolkata,2025-08-11,202
+P005,Face Mask,Chennai,2025-08-11,227
+P005,Face Mask,Bengaluru,2025-08-11,247
+P001,Soft Drink X,Delhi,2025-08-12,225
+P001,Soft Drink X,Mumbai,2025-08-12,255
+P001,Soft Drink X,Kolkata,2025-08-12,203
+P001,Soft Drink X,Chennai,2025-08-12,252
+P001,Soft Drink X,Bengaluru,2025-08-12,236
+P002,Mithai Y,Delhi,2025-08-12,186
+P002,Mithai Y,Mumbai,2025-08-12,191
+P002,Mithai Y,Kolkata,2025-08-12,168
+P002,Mithai Y,Chennai,2025-08-12,172
+P002,Mithai Y,Bengaluru,2025-08-12,202
+P003,Cold Cream Z,Delhi,2025-08-12,51
+P003,Cold Cream Z,Mumbai,2025-08-12,70
+P003,Cold Cream Z,Kolkata,2025-08-12,99
+P003,Cold Cream Z,Chennai,2025-08-12,60
+P003,Cold Cream Z,Bengaluru,2025-08-12,83
+P004,T-Shirt,Delhi,2025-08-12,176
+P004,T-Shirt,Mumbai,2025-08-12,202
+P004,T-Shirt,Kolkata,2025-08-12,185
+P004,T-Shirt,Chennai,2025-08-12,196
+P004,T-Shirt,Bengaluru,2025-08-12,149
+P005,Face Mask,Delhi,2025-08-12,216
+P005,Face Mask,Mumbai,2025-08-12,147
+P005,Face Mask,Kolkata,2025-08-12,174
+P005,Face Mask,Chennai,2025-08-12,207
+P005,Face Mask,Bengaluru,2025-08-12,228
+P001,Soft Drink X,Delhi,2025-08-13,226
+P001,Soft Drink X,Mumbai,2025-08-13,232
+P001,Soft Drink X,Kolkata,2025-08-13,184
+P001,Soft Drink X,Chennai,2025-08-13,213
+P001,Soft Drink X,Bengaluru,2025-08-13,225
+P002,Mithai Y,Delhi,2025-08-13,217
+P002,Mithai Y,Mumbai,2025-08-13,212
+P002,Mithai Y,Kolkata,2025-08-13,197
+P002,Mithai Y,Chennai,2025-08-13,204
+P002,Mithai Y,Bengaluru,2025-08-13,224
+P003,Cold Cream Z,Delhi,2025-08-13,28
+P003,Cold Cream Z,Mumbai,2025-08-13,63
+P003,Cold Cream Z,Kolkata,2025-08-13,64
+P003,Cold Cream Z,Chennai,2025-08-13,43
+P003,Cold Cream Z,Bengaluru,2025-08-13,89
+P004,T-Shirt,Delhi,2025-08-13,135
+P004,T-Shirt,Mumbai,2025-08-13,191
+P004,T-Shirt,Kolkata,2025-08-13,125
+P004,T-Shirt,Chennai,2025-08-13,219
+P004,T-Shirt,Bengaluru,2025-08-13,135
+P005,Face Mask,Delhi,2025-08-13,254
+P005,Face Mask,Mumbai,2025-08-13,197
+P005,Face Mask,Kolkata,2025-08-13,209
+P005,Face Mask,Chennai,2025-08-13,208
+P005,Face Mask,Bengaluru,2025-08-13,200
+P001,Soft Drink X,Delhi,2025-08-14,222
+P001,Soft Drink X,Mumbai,2025-08-14,236
+P001,Soft Drink X,Kolkata,2025-08-14,254
+P001,Soft Drink X,Chennai,2025-08-14,234
+P001,Soft Drink X,Bengaluru,2025-08-14,278
+P002,Mithai Y,Delhi,2025-08-14,194
+P002,Mithai Y,Mumbai,2025-08-14,179
+P002,Mithai Y,Kolkata,2025-08-14,220
+P002,Mithai Y,Chennai,2025-08-14,216
+P002,Mithai Y,Bengaluru,2025-08-14,164
+P003,Cold Cream Z,Delhi,2025-08-14,50
+P003,Cold Cream Z,Mumbai,2025-08-14,59
+P003,Cold Cream Z,Kolkata,2025-08-14,62
+P003,Cold Cream Z,Chennai,2025-08-14,12
+P003,Cold Cream Z,Bengaluru,2025-08-14,44
+P004,T-Shirt,Delhi,2025-08-14,181
+P004,T-Shirt,Mumbai,2025-08-14,189
+P004,T-Shirt,Kolkata,2025-08-14,144
+P004,T-Shirt,Chennai,2025-08-14,218
+P004,T-Shirt,Bengaluru,2025-08-14,173
+P005,Face Mask,Delhi,2025-08-14,235
+P005,Face Mask,Mumbai,2025-08-14,263
+P005,Face Mask,Kolkata,2025-08-14,219
+P005,Face Mask,Chennai,2025-08-14,226
+P005,Face Mask,Bengaluru,2025-08-14,229
+P001,Soft Drink X,Delhi,2025-08-15,252
+P001,Soft Drink X,Mumbai,2025-08-15,264
+P001,Soft Drink X,Kolkata,2025-08-15,259
+P001,Soft Drink X,Chennai,2025-08-15,231
+P001,Soft Drink X,Bengaluru,2025-08-15,235
+P002,Mithai Y,Delhi,2025-08-15,189
+P002,Mithai Y,Mumbai,2025-08-15,205
+P002,Mithai Y,Kolkata,2025-08-15,230
+P002,Mithai Y,Chennai,2025-08-15,179
+P002,Mithai Y,Bengaluru,2025-08-15,183
+P003,Cold Cream Z,Delhi,2025-08-15,31
+P003,Cold Cream Z,Mumbai,2025-08-15,75
+P003,Cold Cream Z,Kolkata,2025-08-15,72
+P003,Cold Cream Z,Chennai,2025-08-15,17
+P003,Cold Cream Z,Bengaluru,2025-08-15,75
+P004,T-Shirt,Delhi,2025-08-15,194
+P004,T-Shirt,Mumbai,2025-08-15,189
+P004,T-Shirt,Kolkata,2025-08-15,155
+P004,T-Shirt,Chennai,2025-08-15,173
+P004,T-Shirt,Bengaluru,2025-08-15,175
+P005,Face Mask,Delhi,2025-08-15,169
+P005,Face Mask,Mumbai,2025-08-15,201
+P005,Face Mask,Kolkata,2025-08-15,253
+P005,Face Mask,Chennai,2025-08-15,233
+P005,Face Mask,Bengaluru,2025-08-15,260
+P001,Soft Drink X,Delhi,2025-08-16,278
+P001,Soft Drink X,Mumbai,2025-08-16,283
+P001,Soft Drink X,Kolkata,2025-08-16,216
+P001,Soft Drink X,Chennai,2025-08-16,263
+P001,Soft Drink X,Bengaluru,2025-08-16,257
+P002,Mithai Y,Delhi,2025-08-16,195
+P002,Mithai Y,Mumbai,2025-08-16,202
+P002,Mithai Y,Kolkata,2025-08-16,252
+P002,Mithai Y,Chennai,2025-08-16,153
+P002,Mithai Y,Bengaluru,2025-08-16,218
+P003,Cold Cream Z,Delhi,2025-08-16,47
+P003,Cold Cream Z,Mumbai,2025-08-16,56
+P003,Cold Cream Z,Kolkata,2025-08-16,87
+P003,Cold Cream Z,Chennai,2025-08-16,68
+P003,Cold Cream Z,Bengaluru,2025-08-16,52
+P004,T-Shirt,Delhi,2025-08-16,186
+P004,T-Shirt,Mumbai,2025-08-16,181
+P004,T-Shirt,Kolkata,2025-08-16,180
+P004,T-Shirt,Chennai,2025-08-16,173
+P004,T-Shirt,Bengaluru,2025-08-16,195
+P005,Face Mask,Delhi,2025-08-16,256
+P005,Face Mask,Mumbai,2025-08-16,238
+P005,Face Mask,Kolkata,2025-08-16,178
+P005,Face Mask,Chennai,2025-08-16,273
+P005,Face Mask,Bengaluru,2025-08-16,251
+P001,Soft Drink X,Delhi,2025-08-17,295
+P001,Soft Drink X,Mumbai,2025-08-17,226
+P001,Soft Drink X,Kolkata,2025-08-17,246
+P001,Soft Drink X,Chennai,2025-08-17,257
+P001,Soft Drink X,Bengaluru,2025-08-17,237
+P002,Mithai Y,Delhi,2025-08-17,187
+P002,Mithai Y,Mumbai,2025-08-17,148
+P002,Mithai Y,Kolkata,2025-08-17,196
+P002,Mithai Y,Chennai,2025-08-17,170
+P002,Mithai Y,Bengaluru,2025-08-17,212
+P003,Cold Cream Z,Delhi,2025-08-17,44
+P003,Cold Cream Z,Mumbai,2025-08-17,64
+P003,Cold Cream Z,Kolkata,2025-08-17,31
+P003,Cold Cream Z,Chennai,2025-08-17,14
+P003,Cold Cream Z,Bengaluru,2025-08-17,75
+P004,T-Shirt,Delhi,2025-08-17,189
+P004,T-Shirt,Mumbai,2025-08-17,194
+P004,T-Shirt,Kolkata,2025-08-17,144
+P004,T-Shirt,Chennai,2025-08-17,191
+P004,T-Shirt,Bengaluru,2025-08-17,170
+P005,Face Mask,Delhi,2025-08-17,227
+P005,Face Mask,Mumbai,2025-08-17,231
+P005,Face Mask,Kolkata,2025-08-17,187
+P005,Face Mask,Chennai,2025-08-17,199
+P005,Face Mask,Bengaluru,2025-08-17,226
+P001,Soft Drink X,Delhi,2025-08-18,262
+P001,Soft Drink X,Mumbai,2025-08-18,248
+P001,Soft Drink X,Kolkata,2025-08-18,285
+P001,Soft Drink X,Chennai,2025-08-18,235
+P001,Soft Drink X,Bengaluru,2025-08-18,283
+P002,Mithai Y,Delhi,2025-08-18,208
+P002,Mithai Y,Mumbai,2025-08-18,222
+P002,Mithai Y,Kolkata,2025-08-18,180
+P002,Mithai Y,Chennai,2025-08-18,211
+P002,Mithai Y,Bengaluru,2025-08-18,259
+P003,Cold Cream Z,Delhi,2025-08-18,86
+P003,Cold Cream Z,Mumbai,2025-08-18,62
+P003,Cold Cream Z,Kolkata,2025-08-18,38
+P003,Cold Cream Z,Chennai,2025-08-18,52
+P003,Cold Cream Z,Bengaluru,2025-08-18,39
+P004,T-Shirt,Delhi,2025-08-18,166
+P004,T-Shirt,Mumbai,2025-08-18,156
+P004,T-Shirt,Kolkata,2025-08-18,210
+P004,T-Shirt,Chennai,2025-08-18,138
+P004,T-Shirt,Bengaluru,2025-08-18,143
+P005,Face Mask,Delhi,2025-08-18,203
+P005,Face Mask,Mumbai,2025-08-18,286
+P005,Face Mask,Kolkata,2025-08-18,262
+P005,Face Mask,Chennai,2025-08-18,199
+P005,Face Mask,Bengaluru,2025-08-18,234
+P001,Soft Drink X,Delhi,2025-08-19,259
+P001,Soft Drink X,Mumbai,2025-08-19,238
+P001,Soft Drink X,Kolkata,2025-08-19,251
+P001,Soft Drink X,Chennai,2025-08-19,252
+P001,Soft Drink X,Bengaluru,2025-08-19,298
+P002,Mithai Y,Delhi,2025-08-19,197
+P002,Mithai Y,Mumbai,2025-08-19,208
+P002,Mithai Y,Kolkata,2025-08-19,154
+P002,Mithai Y,Chennai,2025-08-19,194
+P002,Mithai Y,Bengaluru,2025-08-19,172
+P003,Cold Cream Z,Delhi,2025-08-19,68
+P003,Cold Cream Z,Mumbai,2025-08-19,37
+P003,Cold Cream Z,Kolkata,2025-08-19,59
+P003,Cold Cream Z,Chennai,2025-08-19,61
+P003,Cold Cream Z,Bengaluru,2025-08-19,42
+P004,T-Shirt,Delhi,2025-08-19,154
+P004,T-Shirt,Mumbai,2025-08-19,222
+P004,T-Shirt,Kolkata,2025-08-19,152
+P004,T-Shirt,Chennai,2025-08-19,169
+P004,T-Shirt,Bengaluru,2025-08-19,146
+P005,Face Mask,Delhi,2025-08-19,191
+P005,Face Mask,Mumbai,2025-08-19,234
+P005,Face Mask,Kolkata,2025-08-19,231
+P005,Face Mask,Chennai,2025-08-19,210
+P005,Face Mask,Bengaluru,2025-08-19,232
+P001,Soft Drink X,Delhi,2025-08-20,270
+P001,Soft Drink X,Mumbai,2025-08-20,248
+P001,Soft Drink X,Kolkata,2025-08-20,249
+P001,Soft Drink X,Chennai,2025-08-20,214
+P001,Soft Drink X,Bengaluru,2025-08-20,239
+P002,Mithai Y,Delhi,2025-08-20,219
+P002,Mithai Y,Mumbai,2025-08-20,175
+P002,Mithai Y,Kolkata,2025-08-20,180
+P002,Mithai Y,Chennai,2025-08-20,182
+P002,Mithai Y,Bengaluru,2025-08-20,197
+P003,Cold Cream Z,Delhi,2025-08-20,56
+P003,Cold Cream Z,Mumbai,2025-08-20,129
+P003,Cold Cream Z,Kolkata,2025-08-20,47
+P003,Cold Cream Z,Chennai,2025-08-20,42
+P003,Cold Cream Z,Bengaluru,2025-08-20,62
+P004,T-Shirt,Delhi,2025-08-20,118
+P004,T-Shirt,Mumbai,2025-08-20,204
+P004,T-Shirt,Kolkata,2025-08-20,212
+P004,T-Shirt,Chennai,2025-08-20,207
+P004,T-Shirt,Bengaluru,2025-08-20,173
+P005,Face Mask,Delhi,2025-08-20,213
+P005,Face Mask,Mumbai,2025-08-20,201
+P005,Face Mask,Kolkata,2025-08-20,177
+P005,Face Mask,Chennai,2025-08-20,241
+P005,Face Mask,Bengaluru,2025-08-20,169
+P001,Soft Drink X,Delhi,2025-08-21,190
+P001,Soft Drink X,Mumbai,2025-08-21,301
+P001,Soft Drink X,Kolkata,2025-08-21,226
+P001,Soft Drink X,Chennai,2025-08-21,275
+P001,Soft Drink X,Bengaluru,2025-08-21,259
+P002,Mithai Y,Delhi,2025-08-21,199
+P002,Mithai Y,Mumbai,2025-08-21,228
+P002,Mithai Y,Kolkata,2025-08-21,169
+P002,Mithai Y,Chennai,2025-08-21,218
+P002,Mithai Y,Bengaluru,2025-08-21,215
+P003,Cold Cream Z,Delhi,2025-08-21,72
+P003,Cold Cream Z,Mumbai,2025-08-21,47
+P003,Cold Cream Z,Kolkata,2025-08-21,97
+P003,Cold Cream Z,Chennai,2025-08-21,111
+P003,Cold Cream Z,Bengaluru,2025-08-21,41
+P004,T-Shirt,Delhi,2025-08-21,177
+P004,T-Shirt,Mumbai,2025-08-21,188
+P004,T-Shirt,Kolkata,2025-08-21,168
+P004,T-Shirt,Chennai,2025-08-21,195
+P004,T-Shirt,Bengaluru,2025-08-21,186
+P005,Face Mask,Delhi,2025-08-21,206
+P005,Face Mask,Mumbai,2025-08-21,214
+P005,Face Mask,Kolkata,2025-08-21,245
+P005,Face Mask,Chennai,2025-08-21,206
+P005,Face Mask,Bengaluru,2025-08-21,252
+P001,Soft Drink X,Delhi,2025-08-22,264
+P001,Soft Drink X,Mumbai,2025-08-22,231
+P001,Soft Drink X,Kolkata,2025-08-22,265
+P001,Soft Drink X,Chennai,2025-08-22,256
+P001,Soft Drink X,Bengaluru,2025-08-22,198
+P002,Mithai Y,Delhi,2025-08-22,196
+P002,Mithai Y,Mumbai,2025-08-22,205
+P002,Mithai Y,Kolkata,2025-08-22,221
+P002,Mithai Y,Chennai,2025-08-22,173
+P002,Mithai Y,Bengaluru,2025-08-22,192
+P003,Cold Cream Z,Delhi,2025-08-22,71
+P003,Cold Cream Z,Mumbai,2025-08-22,78
+P003,Cold Cream Z,Kolkata,2025-08-22,55
+P003,Cold Cream Z,Chennai,2025-08-22,44
+P003,Cold Cream Z,Bengaluru,2025-08-22,37
+P004,T-Shirt,Delhi,2025-08-22,182
+P004,T-Shirt,Mumbai,2025-08-22,161
+P004,T-Shirt,Kolkata,2025-08-22,171
+P004,T-Shirt,Chennai,2025-08-22,163
+P004,T-Shirt,Bengaluru,2025-08-22,183
+P005,Face Mask,Delhi,2025-08-22,209
+P005,Face Mask,Mumbai,2025-08-22,275
+P005,Face Mask,Kolkata,2025-08-22,215
+P005,Face Mask,Chennai,2025-08-22,254
+P005,Face Mask,Bengaluru,2025-08-22,162
+P001,Soft Drink X,Delhi,2025-08-23,311
+P001,Soft Drink X,Mumbai,2025-08-23,219
+P001,Soft Drink X,Kolkata,2025-08-23,234
+P001,Soft Drink X,Chennai,2025-08-23,241
+P001,Soft Drink X,Bengaluru,2025-08-23,243
+P002,Mithai Y,Delhi,2025-08-23,171
+P002,Mithai Y,Mumbai,2025-08-23,214
+P002,Mithai Y,Kolkata,2025-08-23,190
+P002,Mithai Y,Chennai,2025-08-23,165
+P002,Mithai Y,Bengaluru,2025-08-23,184
+P003,Cold Cream Z,Delhi,2025-08-23,47
+P003,Cold Cream Z,Mumbai,2025-08-23,18
+P003,Cold Cream Z,Kolkata,2025-08-23,62
+P003,Cold Cream Z,Chennai,2025-08-23,65
+P003,Cold Cream Z,Bengaluru,2025-08-23,31
+P004,T-Shirt,Delhi,2025-08-23,190
+P004,T-Shirt,Mumbai,2025-08-23,174
+P004,T-Shirt,Kolkata,2025-08-23,188
+P004,T-Shirt,Chennai,2025-08-23,143
+P004,T-Shirt,Bengaluru,2025-08-23,186
+P005,Face Mask,Delhi,2025-08-23,224
+P005,Face Mask,Mumbai,2025-08-23,244
+P005,Face Mask,Kolkata,2025-08-23,175
+P005,Face Mask,Chennai,2025-08-23,241
+P005,Face Mask,Bengaluru,2025-08-23,206
+P001,Soft Drink X,Delhi,2025-08-24,232
+P001,Soft Drink X,Mumbai,2025-08-24,210
+P001,Soft Drink X,Kolkata,2025-08-24,267
+P001,Soft Drink X,Chennai,2025-08-24,244
+P001,Soft Drink X,Bengaluru,2025-08-24,231
+P002,Mithai Y,Delhi,2025-08-24,228
+P002,Mithai Y,Mumbai,2025-08-24,181
+P002,Mithai Y,Kolkata,2025-08-24,195
+P002,Mithai Y,Chennai,2025-08-24,198
+P002,Mithai Y,Bengaluru,2025-08-24,212
+P003,Cold Cream Z,Delhi,2025-08-24,57
+P003,Cold Cream Z,Mumbai,2025-08-24,59
+P003,Cold Cream Z,Kolkata,2025-08-24,81
+P003,Cold Cream Z,Chennai,2025-08-24,69
+P003,Cold Cream Z,Bengaluru,2025-08-24,74
+P004,T-Shirt,Delhi,2025-08-24,171
+P004,T-Shirt,Mumbai,2025-08-24,182
+P004,T-Shirt,Kolkata,2025-08-24,118
+P004,T-Shirt,Chennai,2025-08-24,168
+P004,T-Shirt,Bengaluru,2025-08-24,203
+P005,Face Mask,Delhi,2025-08-24,265
+P005,Face Mask,Mumbai,2025-08-24,209
+P005,Face Mask,Kolkata,2025-08-24,228
+P005,Face Mask,Chennai,2025-08-24,238
+P005,Face Mask,Bengaluru,2025-08-24,210
+P001,Soft Drink X,Delhi,2025-08-25,254
+P001,Soft Drink X,Mumbai,2025-08-25,252
+P001,Soft Drink X,Kolkata,2025-08-25,270
+P001,Soft Drink X,Chennai,2025-08-25,250
+P001,Soft Drink X,Bengaluru,2025-08-25,207
+P002,Mithai Y,Delhi,2025-08-25,187
+P002,Mithai Y,Mumbai,2025-08-25,182
+P002,Mithai Y,Kolkata,2025-08-25,212
+P002,Mithai Y,Chennai,2025-08-25,183
+P002,Mithai Y,Bengaluru,2025-08-25,197
+P003,Cold Cream Z,Delhi,2025-08-25,47
+P003,Cold Cream Z,Mumbai,2025-08-25,42
+P003,Cold Cream Z,Kolkata,2025-08-25,60
+P003,Cold Cream Z,Chennai,2025-08-25,46
+P003,Cold Cream Z,Bengaluru,2025-08-25,97
+P004,T-Shirt,Delhi,2025-08-25,177
+P004,T-Shirt,Mumbai,2025-08-25,154
+P004,T-Shirt,Kolkata,2025-08-25,229
+P004,T-Shirt,Chennai,2025-08-25,161
+P004,T-Shirt,Bengaluru,2025-08-25,180
+P005,Face Mask,Delhi,2025-08-25,201
+P005,Face Mask,Mumbai,2025-08-25,255
+P005,Face Mask,Kolkata,2025-08-25,182
+P005,Face Mask,Chennai,2025-08-25,240
+P005,Face Mask,Bengaluru,2025-08-25,224
+P001,Soft Drink X,Delhi,2025-08-26,245
+P001,Soft Drink X,Mumbai,2025-08-26,241
+P001,Soft Drink X,Kolkata,2025-08-26,256
+P001,Soft Drink X,Chennai,2025-08-26,262
+P001,Soft Drink X,Bengaluru,2025-08-26,262
+P002,Mithai Y,Delhi,2025-08-26,192
+P002,Mithai Y,Mumbai,2025-08-26,193
+P002,Mithai Y,Kolkata,2025-08-26,169
+P002,Mithai Y,Chennai,2025-08-26,178
+P002,Mithai Y,Bengaluru,2025-08-26,226
+P003,Cold Cream Z,Delhi,2025-08-26,66
+P003,Cold Cream Z,Mumbai,2025-08-26,70
+P003,Cold Cream Z,Kolkata,2025-08-26,52
+P003,Cold Cream Z,Chennai,2025-08-26,90
+P003,Cold Cream Z,Bengaluru,2025-08-26,50
+P004,T-Shirt,Delhi,2025-08-26,173
+P004,T-Shirt,Mumbai,2025-08-26,147
+P004,T-Shirt,Kolkata,2025-08-26,181
+P004,T-Shirt,Chennai,2025-08-26,171
+P004,T-Shirt,Bengaluru,2025-08-26,161
+P005,Face Mask,Delhi,2025-08-26,218
+P005,Face Mask,Mumbai,2025-08-26,198
+P005,Face Mask,Kolkata,2025-08-26,226
+P005,Face Mask,Chennai,2025-08-26,228
+P005,Face Mask,Bengaluru,2025-08-26,234
+P001,Soft Drink X,Delhi,2025-08-27,254
+P001,Soft Drink X,Mumbai,2025-08-27,207
+P001,Soft Drink X,Kolkata,2025-08-27,220
+P001,Soft Drink X,Chennai,2025-08-27,243
+P001,Soft Drink X,Bengaluru,2025-08-27,272
+P002,Mithai Y,Delhi,2025-08-27,193
+P002,Mithai Y,Mumbai,2025-08-27,209
+P002,Mithai Y,Kolkata,2025-08-27,221
+P002,Mithai Y,Chennai,2025-08-27,195
+P002,Mithai Y,Bengaluru,2025-08-27,211
+P003,Cold Cream Z,Delhi,2025-08-27,63
+P003,Cold Cream Z,Mumbai,2025-08-27,12
+P003,Cold Cream Z,Kolkata,2025-08-27,53
+P003,Cold Cream Z,Chennai,2025-08-27,31
+P003,Cold Cream Z,Bengaluru,2025-08-27,51
+P004,T-Shirt,Delhi,2025-08-27,178
+P004,T-Shirt,Mumbai,2025-08-27,166
+P004,T-Shirt,Kolkata,2025-08-27,232
+P004,T-Shirt,Chennai,2025-08-27,237
+P004,T-Shirt,Bengaluru,2025-08-27,174
+P005,Face Mask,Delhi,2025-08-27,193
+P005,Face Mask,Mumbai,2025-08-27,211
+P005,Face Mask,Kolkata,2025-08-27,206
+P005,Face Mask,Chennai,2025-08-27,241
+P005,Face Mask,Bengaluru,2025-08-27,199
+P001,Soft Drink X,Delhi,2025-08-28,235
+P001,Soft Drink X,Mumbai,2025-08-28,250
+P001,Soft Drink X,Kolkata,2025-08-28,252
+P001,Soft Drink X,Chennai,2025-08-28,271
+P001,Soft Drink X,Bengaluru,2025-08-28,269
+P002,Mithai Y,Delhi,2025-08-28,218
+P002,Mithai Y,Mumbai,2025-08-28,196
+P002,Mithai Y,Kolkata,2025-08-28,229
+P002,Mithai Y,Chennai,2025-08-28,207
+P002,Mithai Y,Bengaluru,2025-08-28,191
+P003,Cold Cream Z,Delhi,2025-08-28,67
+P003,Cold Cream Z,Mumbai,2025-08-28,0
+P003,Cold Cream Z,Kolkata,2025-08-28,21
+P003,Cold Cream Z,Chennai,2025-08-28,88
+P003,Cold Cream Z,Bengaluru,2025-08-28,12
+P004,T-Shirt,Delhi,2025-08-28,191
+P004,T-Shirt,Mumbai,2025-08-28,169
+P004,T-Shirt,Kolkata,2025-08-28,191
+P004,T-Shirt,Chennai,2025-08-28,200
+P004,T-Shirt,Bengaluru,2025-08-28,167
+P005,Face Mask,Delhi,2025-08-28,201
+P005,Face Mask,Mumbai,2025-08-28,231
+P005,Face Mask,Kolkata,2025-08-28,222
+P005,Face Mask,Chennai,2025-08-28,229
+P005,Face Mask,Bengaluru,2025-08-28,205
+P001,Soft Drink X,Delhi,2025-08-29,254
+P001,Soft Drink X,Mumbai,2025-08-29,241
+P001,Soft Drink X,Kolkata,2025-08-29,212
+P001,Soft Drink X,Chennai,2025-08-29,203
+P001,Soft Drink X,Bengaluru,2025-08-29,235
+P002,Mithai Y,Delhi,2025-08-29,188
+P002,Mithai Y,Mumbai,2025-08-29,183
+P002,Mithai Y,Kolkata,2025-08-29,196
+P002,Mithai Y,Chennai,2025-08-29,256
+P002,Mithai Y,Bengaluru,2025-08-29,221
+P003,Cold Cream Z,Delhi,2025-08-29,116
+P003,Cold Cream Z,Mumbai,2025-08-29,14
+P003,Cold Cream Z,Kolkata,2025-08-29,37
+P003,Cold Cream Z,Chennai,2025-08-29,81
+P003,Cold Cream Z,Bengaluru,2025-08-29,47
+P004,T-Shirt,Delhi,2025-08-29,169
+P004,T-Shirt,Mumbai,2025-08-29,221
+P004,T-Shirt,Kolkata,2025-08-29,155
+P004,T-Shirt,Chennai,2025-08-29,206
+P004,T-Shirt,Bengaluru,2025-08-29,201
+P005,Face Mask,Delhi,2025-08-29,205
+P005,Face Mask,Mumbai,2025-08-29,237
+P005,Face Mask,Kolkata,2025-08-29,207
+P005,Face Mask,Chennai,2025-08-29,252
+P005,Face Mask,Bengaluru,2025-08-29,196
+P001,Soft Drink X,Delhi,2025-08-30,195
+P001,Soft Drink X,Mumbai,2025-08-30,240
+P001,Soft Drink X,Kolkata,2025-08-30,269
+P001,Soft Drink X,Chennai,2025-08-30,213
+P001,Soft Drink X,Bengaluru,2025-08-30,237
+P002,Mithai Y,Delhi,2025-08-30,206
+P002,Mithai Y,Mumbai,2025-08-30,188
+P002,Mithai Y,Kolkata,2025-08-30,220
+P002,Mithai Y,Chennai,2025-08-30,181
+P002,Mithai Y,Bengaluru,2025-08-30,192
+P003,Cold Cream Z,Delhi,2025-08-30,21
+P003,Cold Cream Z,Mumbai,2025-08-30,36
+P003,Cold Cream Z,Kolkata,2025-08-30,42
+P003,Cold Cream Z,Chennai,2025-08-30,53
+P003,Cold Cream Z,Bengaluru,2025-08-30,81
+P004,T-Shirt,Delhi,2025-08-30,183
+P004,T-Shirt,Mumbai,2025-08-30,199
+P004,T-Shirt,Kolkata,2025-08-30,231
+P004,T-Shirt,Chennai,2025-08-30,176
+P004,T-Shirt,Bengaluru,2025-08-30,193
+P005,Face Mask,Delhi,2025-08-30,183
+P005,Face Mask,Mumbai,2025-08-30,216
+P005,Face Mask,Kolkata,2025-08-30,257
+P005,Face Mask,Chennai,2025-08-30,214
+P005,Face Mask,Bengaluru,2025-08-30,209
+P001,Soft Drink X,Delhi,2025-08-31,237
+P001,Soft Drink X,Mumbai,2025-08-31,212
+P001,Soft Drink X,Kolkata,2025-08-31,256
+P001,Soft Drink X,Chennai,2025-08-31,268
+P001,Soft Drink X,Bengaluru,2025-08-31,276
+P002,Mithai Y,Delhi,2025-08-31,235
+P002,Mithai Y,Mumbai,2025-08-31,208
+P002,Mithai Y,Kolkata,2025-08-31,226
+P002,Mithai Y,Chennai,2025-08-31,163
+P002,Mithai Y,Bengaluru,2025-08-31,207
+P003,Cold Cream Z,Delhi,2025-08-31,47
+P003,Cold Cream Z,Mumbai,2025-08-31,38
+P003,Cold Cream Z,Kolkata,2025-08-31,77
+P003,Cold Cream Z,Chennai,2025-08-31,37
+P003,Cold Cream Z,Bengaluru,2025-08-31,90
+P004,T-Shirt,Delhi,2025-08-31,147
+P004,T-Shirt,Mumbai,2025-08-31,221
+P004,T-Shirt,Kolkata,2025-08-31,145
+P004,T-Shirt,Chennai,2025-08-31,133
+P004,T-Shirt,Bengaluru,2025-08-31,185
+P005,Face Mask,Delhi,2025-08-31,211
+P005,Face Mask,Mumbai,2025-08-31,263
+P005,Face Mask,Kolkata,2025-08-31,216
+P005,Face Mask,Chennai,2025-08-31,207
+P005,Face Mask,Bengaluru,2025-08-31,207
+P001,Soft Drink X,Delhi,2025-09-01,197
+P001,Soft Drink X,Mumbai,2025-09-01,178
+P001,Soft Drink X,Kolkata,2025-09-01,217
+P001,Soft Drink X,Chennai,2025-09-01,178
+P001,Soft Drink X,Bengaluru,2025-09-01,160
+P002,Mithai Y,Delhi,2025-09-01,133
+P002,Mithai Y,Mumbai,2025-09-01,96
+P002,Mithai Y,Kolkata,2025-09-01,102
+P002,Mithai Y,Chennai,2025-09-01,88
+P002,Mithai Y,Bengaluru,2025-09-01,176
+P003,Cold Cream Z,Delhi,2025-09-01,94
+P003,Cold Cream Z,Mumbai,2025-09-01,56
+P003,Cold Cream Z,Kolkata,2025-09-01,104
+P003,Cold Cream Z,Chennai,2025-09-01,118
+P003,Cold Cream Z,Bengaluru,2025-09-01,75
+P004,T-Shirt,Delhi,2025-09-01,144
+P004,T-Shirt,Mumbai,2025-09-01,131
+P004,T-Shirt,Kolkata,2025-09-01,140
+P004,T-Shirt,Chennai,2025-09-01,150
+P004,T-Shirt,Bengaluru,2025-09-01,152
+P005,Face Mask,Delhi,2025-09-01,171
+P005,Face Mask,Mumbai,2025-09-01,288
+P005,Face Mask,Kolkata,2025-09-01,233
+P005,Face Mask,Chennai,2025-09-01,231
+P005,Face Mask,Bengaluru,2025-09-01,243
+P001,Soft Drink X,Delhi,2025-09-02,160
+P001,Soft Drink X,Mumbai,2025-09-02,228
+P001,Soft Drink X,Kolkata,2025-09-02,184
+P001,Soft Drink X,Chennai,2025-09-02,147
+P001,Soft Drink X,Bengaluru,2025-09-02,202
+P002,Mithai Y,Delhi,2025-09-02,130
+P002,Mithai Y,Mumbai,2025-09-02,102
+P002,Mithai Y,Kolkata,2025-09-02,115
+P002,Mithai Y,Chennai,2025-09-02,92
+P002,Mithai Y,Bengaluru,2025-09-02,110
+P003,Cold Cream Z,Delhi,2025-09-02,140
+P003,Cold Cream Z,Mumbai,2025-09-02,141
+P003,Cold Cream Z,Kolkata,2025-09-02,99
+P003,Cold Cream Z,Chennai,2025-09-02,92
+P003,Cold Cream Z,Bengaluru,2025-09-02,81
+P004,T-Shirt,Delhi,2025-09-02,115
+P004,T-Shirt,Mumbai,2025-09-02,132
+P004,T-Shirt,Kolkata,2025-09-02,134
+P004,T-Shirt,Chennai,2025-09-02,140
+P004,T-Shirt,Bengaluru,2025-09-02,170
+P005,Face Mask,Delhi,2025-09-02,227
+P005,Face Mask,Mumbai,2025-09-02,234
+P005,Face Mask,Kolkata,2025-09-02,246
+P005,Face Mask,Chennai,2025-09-02,224
+P005,Face Mask,Bengaluru,2025-09-02,238
+P001,Soft Drink X,Delhi,2025-09-03,168
+P001,Soft Drink X,Mumbai,2025-09-03,184
+P001,Soft Drink X,Kolkata,2025-09-03,212
+P001,Soft Drink X,Chennai,2025-09-03,161
+P001,Soft Drink X,Bengaluru,2025-09-03,184
+P002,Mithai Y,Delhi,2025-09-03,108
+P002,Mithai Y,Mumbai,2025-09-03,104
+P002,Mithai Y,Kolkata,2025-09-03,110
+P002,Mithai Y,Chennai,2025-09-03,112
+P002,Mithai Y,Bengaluru,2025-09-03,125
+P003,Cold Cream Z,Delhi,2025-09-03,67
+P003,Cold Cream Z,Mumbai,2025-09-03,87
+P003,Cold Cream Z,Kolkata,2025-09-03,87
+P003,Cold Cream Z,Chennai,2025-09-03,86
+P003,Cold Cream Z,Bengaluru,2025-09-03,137
+P004,T-Shirt,Delhi,2025-09-03,111
+P004,T-Shirt,Mumbai,2025-09-03,111
+P004,T-Shirt,Kolkata,2025-09-03,136
+P004,T-Shirt,Chennai,2025-09-03,167
+P004,T-Shirt,Bengaluru,2025-09-03,123
+P005,Face Mask,Delhi,2025-09-03,243
+P005,Face Mask,Mumbai,2025-09-03,233
+P005,Face Mask,Kolkata,2025-09-03,206
+P005,Face Mask,Chennai,2025-09-03,212
+P005,Face Mask,Bengaluru,2025-09-03,201
+P001,Soft Drink X,Delhi,2025-09-04,161
+P001,Soft Drink X,Mumbai,2025-09-04,210
+P001,Soft Drink X,Kolkata,2025-09-04,197
+P001,Soft Drink X,Chennai,2025-09-04,201
+P001,Soft Drink X,Bengaluru,2025-09-04,255
+P002,Mithai Y,Delhi,2025-09-04,124
+P002,Mithai Y,Mumbai,2025-09-04,141
+P002,Mithai Y,Kolkata,2025-09-04,128
+P002,Mithai Y,Chennai,2025-09-04,107
+P002,Mithai Y,Bengaluru,2025-09-04,145
+P003,Cold Cream Z,Delhi,2025-09-04,107
+P003,Cold Cream Z,Mumbai,2025-09-04,126
+P003,Cold Cream Z,Kolkata,2025-09-04,107
+P003,Cold Cream Z,Chennai,2025-09-04,111
+P003,Cold Cream Z,Bengaluru,2025-09-04,122
+P004,T-Shirt,Delhi,2025-09-04,135
+P004,T-Shirt,Mumbai,2025-09-04,160
+P004,T-Shirt,Kolkata,2025-09-04,160
+P004,T-Shirt,Chennai,2025-09-04,118
+P004,T-Shirt,Bengaluru,2025-09-04,123
+P005,Face Mask,Delhi,2025-09-04,157
+P005,Face Mask,Mumbai,2025-09-04,252
+P005,Face Mask,Kolkata,2025-09-04,243
+P005,Face Mask,Chennai,2025-09-04,214
+P005,Face Mask,Bengaluru,2025-09-04,236
+P001,Soft Drink X,Delhi,2025-09-05,220
+P001,Soft Drink X,Mumbai,2025-09-05,161
+P001,Soft Drink X,Kolkata,2025-09-05,162
+P001,Soft Drink X,Chennai,2025-09-05,166
+P001,Soft Drink X,Bengaluru,2025-09-05,158
+P002,Mithai Y,Delhi,2025-09-05,99
+P002,Mithai Y,Mumbai,2025-09-05,93
+P002,Mithai Y,Kolkata,2025-09-05,73
+P002,Mithai Y,Chennai,2025-09-05,156
+P002,Mithai Y,Bengaluru,2025-09-05,128
+P003,Cold Cream Z,Delhi,2025-09-05,120
+P003,Cold Cream Z,Mumbai,2025-09-05,93
+P003,Cold Cream Z,Kolkata,2025-09-05,58
+P003,Cold Cream Z,Chennai,2025-09-05,68
+P003,Cold Cream Z,Bengaluru,2025-09-05,111
+P004,T-Shirt,Delhi,2025-09-05,164
+P004,T-Shirt,Mumbai,2025-09-05,149
+P004,T-Shirt,Kolkata,2025-09-05,185
+P004,T-Shirt,Chennai,2025-09-05,146
+P004,T-Shirt,Bengaluru,2025-09-05,117
+P005,Face Mask,Delhi,2025-09-05,243
+P005,Face Mask,Mumbai,2025-09-05,220
+P005,Face Mask,Kolkata,2025-09-05,237
+P005,Face Mask,Chennai,2025-09-05,265
+P005,Face Mask,Bengaluru,2025-09-05,228
+P001,Soft Drink X,Delhi,2025-09-06,150
+P001,Soft Drink X,Mumbai,2025-09-06,194
+P001,Soft Drink X,Kolkata,2025-09-06,213
+P001,Soft Drink X,Chennai,2025-09-06,197
+P001,Soft Drink X,Bengaluru,2025-09-06,202
+P002,Mithai Y,Delhi,2025-09-06,127
+P002,Mithai Y,Mumbai,2025-09-06,137
+P002,Mithai Y,Kolkata,2025-09-06,118
+P002,Mithai Y,Chennai,2025-09-06,146
+P002,Mithai Y,Bengaluru,2025-09-06,84
+P003,Cold Cream Z,Delhi,2025-09-06,114
+P003,Cold Cream Z,Mumbai,2025-09-06,102
+P003,Cold Cream Z,Kolkata,2025-09-06,154
+P003,Cold Cream Z,Chennai,2025-09-06,133
+P003,Cold Cream Z,Bengaluru,2025-09-06,163
+P004,T-Shirt,Delhi,2025-09-06,153
+P004,T-Shirt,Mumbai,2025-09-06,156
+P004,T-Shirt,Kolkata,2025-09-06,141
+P004,T-Shirt,Chennai,2025-09-06,155
+P004,T-Shirt,Bengaluru,2025-09-06,150
+P005,Face Mask,Delhi,2025-09-06,225
+P005,Face Mask,Mumbai,2025-09-06,223
+P005,Face Mask,Kolkata,2025-09-06,219
+P005,Face Mask,Chennai,2025-09-06,247
+P005,Face Mask,Bengaluru,2025-09-06,211
+P001,Soft Drink X,Delhi,2025-09-07,202
+P001,Soft Drink X,Mumbai,2025-09-07,174
+P001,Soft Drink X,Kolkata,2025-09-07,185
+P001,Soft Drink X,Chennai,2025-09-07,196
+P001,Soft Drink X,Bengaluru,2025-09-07,173
+P002,Mithai Y,Delhi,2025-09-07,124
+P002,Mithai Y,Mumbai,2025-09-07,135
+P002,Mithai Y,Kolkata,2025-09-07,128
+P002,Mithai Y,Chennai,2025-09-07,161
+P002,Mithai Y,Bengaluru,2025-09-07,104
+P003,Cold Cream Z,Delhi,2025-09-07,119
+P003,Cold Cream Z,Mumbai,2025-09-07,109
+P003,Cold Cream Z,Kolkata,2025-09-07,56
+P003,Cold Cream Z,Chennai,2025-09-07,68
+P003,Cold Cream Z,Bengaluru,2025-09-07,93
+P004,T-Shirt,Delhi,2025-09-07,168
+P004,T-Shirt,Mumbai,2025-09-07,111
+P004,T-Shirt,Kolkata,2025-09-07,146
+P004,T-Shirt,Chennai,2025-09-07,177
+P004,T-Shirt,Bengaluru,2025-09-07,154
+P005,Face Mask,Delhi,2025-09-07,231
+P005,Face Mask,Mumbai,2025-09-07,214
+P005,Face Mask,Kolkata,2025-09-07,259
+P005,Face Mask,Chennai,2025-09-07,210
+P005,Face Mask,Bengaluru,2025-09-07,207
+P001,Soft Drink X,Delhi,2025-09-08,201
+P001,Soft Drink X,Mumbai,2025-09-08,165
+P001,Soft Drink X,Kolkata,2025-09-08,169
+P001,Soft Drink X,Chennai,2025-09-08,152
+P001,Soft Drink X,Bengaluru,2025-09-08,177
+P002,Mithai Y,Delhi,2025-09-08,93
+P002,Mithai Y,Mumbai,2025-09-08,148
+P002,Mithai Y,Kolkata,2025-09-08,65
+P002,Mithai Y,Chennai,2025-09-08,150
+P002,Mithai Y,Bengaluru,2025-09-08,104
+P003,Cold Cream Z,Delhi,2025-09-08,116
+P003,Cold Cream Z,Mumbai,2025-09-08,52
+P003,Cold Cream Z,Kolkata,2025-09-08,127
+P003,Cold Cream Z,Chennai,2025-09-08,99
+P003,Cold Cream Z,Bengaluru,2025-09-08,92
+P004,T-Shirt,Delhi,2025-09-08,132
+P004,T-Shirt,Mumbai,2025-09-08,149
+P004,T-Shirt,Kolkata,2025-09-08,137
+P004,T-Shirt,Chennai,2025-09-08,129
+P004,T-Shirt,Bengaluru,2025-09-08,184
+P005,Face Mask,Delhi,2025-09-08,196
+P005,Face Mask,Mumbai,2025-09-08,237
+P005,Face Mask,Kolkata,2025-09-08,215
+P005,Face Mask,Chennai,2025-09-08,220
+P005,Face Mask,Bengaluru,2025-09-08,198
+P001,Soft Drink X,Delhi,2025-09-09,183
+P001,Soft Drink X,Mumbai,2025-09-09,190
+P001,Soft Drink X,Kolkata,2025-09-09,163
+P001,Soft Drink X,Chennai,2025-09-09,158
+P001,Soft Drink X,Bengaluru,2025-09-09,177
+P002,Mithai Y,Delhi,2025-09-09,87
+P002,Mithai Y,Mumbai,2025-09-09,142
+P002,Mithai Y,Kolkata,2025-09-09,97
+P002,Mithai Y,Chennai,2025-09-09,113
+P002,Mithai Y,Bengaluru,2025-09-09,126
+P003,Cold Cream Z,Delhi,2025-09-09,65
+P003,Cold Cream Z,Mumbai,2025-09-09,146
+P003,Cold Cream Z,Kolkata,2025-09-09,76
+P003,Cold Cream Z,Chennai,2025-09-09,76
+P003,Cold Cream Z,Bengaluru,2025-09-09,147
+P004,T-Shirt,Delhi,2025-09-09,207
+P004,T-Shirt,Mumbai,2025-09-09,146
+P004,T-Shirt,Kolkata,2025-09-09,166
+P004,T-Shirt,Chennai,2025-09-09,97
+P004,T-Shirt,Bengaluru,2025-09-09,149
+P005,Face Mask,Delhi,2025-09-09,215
+P005,Face Mask,Mumbai,2025-09-09,187
+P005,Face Mask,Kolkata,2025-09-09,243
+P005,Face Mask,Chennai,2025-09-09,235
+P005,Face Mask,Bengaluru,2025-09-09,218
+P001,Soft Drink X,Delhi,2025-09-10,117
+P001,Soft Drink X,Mumbai,2025-09-10,191
+P001,Soft Drink X,Kolkata,2025-09-10,181
+P001,Soft Drink X,Chennai,2025-09-10,200
+P001,Soft Drink X,Bengaluru,2025-09-10,176
+P002,Mithai Y,Delhi,2025-09-10,139
+P002,Mithai Y,Mumbai,2025-09-10,117
+P002,Mithai Y,Kolkata,2025-09-10,89
+P002,Mithai Y,Chennai,2025-09-10,119
+P002,Mithai Y,Bengaluru,2025-09-10,167
+P003,Cold Cream Z,Delhi,2025-09-10,45
+P003,Cold Cream Z,Mumbai,2025-09-10,83
+P003,Cold Cream Z,Kolkata,2025-09-10,103
+P003,Cold Cream Z,Chennai,2025-09-10,107
+P003,Cold Cream Z,Bengaluru,2025-09-10,103
+P004,T-Shirt,Delhi,2025-09-10,153
+P004,T-Shirt,Mumbai,2025-09-10,161
+P004,T-Shirt,Kolkata,2025-09-10,164
+P004,T-Shirt,Chennai,2025-09-10,132
+P004,T-Shirt,Bengaluru,2025-09-10,146
+P005,Face Mask,Delhi,2025-09-10,199
+P005,Face Mask,Mumbai,2025-09-10,257
+P005,Face Mask,Kolkata,2025-09-10,239
+P005,Face Mask,Chennai,2025-09-10,208
+P005,Face Mask,Bengaluru,2025-09-10,238
+P001,Soft Drink X,Delhi,2025-09-11,152
+P001,Soft Drink X,Mumbai,2025-09-11,171
+P001,Soft Drink X,Kolkata,2025-09-11,173
+P001,Soft Drink X,Chennai,2025-09-11,147
+P001,Soft Drink X,Bengaluru,2025-09-11,212
+P002,Mithai Y,Delhi,2025-09-11,137
+P002,Mithai Y,Mumbai,2025-09-11,105
+P002,Mithai Y,Kolkata,2025-09-11,97
+P002,Mithai Y,Chennai,2025-09-11,136
+P002,Mithai Y,Bengaluru,2025-09-11,90
+P003,Cold Cream Z,Delhi,2025-09-11,54
+P003,Cold Cream Z,Mumbai,2025-09-11,97
+P003,Cold Cream Z,Kolkata,2025-09-11,81
+P003,Cold Cream Z,Chennai,2025-09-11,108
+P003,Cold Cream Z,Bengaluru,2025-09-11,147
+P004,T-Shirt,Delhi,2025-09-11,155
+P004,T-Shirt,Mumbai,2025-09-11,186
+P004,T-Shirt,Kolkata,2025-09-11,163
+P004,T-Shirt,Chennai,2025-09-11,159
+P004,T-Shirt,Bengaluru,2025-09-11,141
+P005,Face Mask,Delhi,2025-09-11,184
+P005,Face Mask,Mumbai,2025-09-11,224
+P005,Face Mask,Kolkata,2025-09-11,173
+P005,Face Mask,Chennai,2025-09-11,183
+P005,Face Mask,Bengaluru,2025-09-11,234
+P001,Soft Drink X,Delhi,2025-09-12,187
+P001,Soft Drink X,Mumbai,2025-09-12,170
+P001,Soft Drink X,Kolkata,2025-09-12,226
+P001,Soft Drink X,Chennai,2025-09-12,217
+P001,Soft Drink X,Bengaluru,2025-09-12,172
+P002,Mithai Y,Delhi,2025-09-12,97
+P002,Mithai Y,Mumbai,2025-09-12,109
+P002,Mithai Y,Kolkata,2025-09-12,119
+P002,Mithai Y,Chennai,2025-09-12,108
+P002,Mithai Y,Bengaluru,2025-09-12,110
+P003,Cold Cream Z,Delhi,2025-09-12,100
+P003,Cold Cream Z,Mumbai,2025-09-12,109
+P003,Cold Cream Z,Kolkata,2025-09-12,90
+P003,Cold Cream Z,Chennai,2025-09-12,106
+P003,Cold Cream Z,Bengaluru,2025-09-12,83
+P004,T-Shirt,Delhi,2025-09-12,141
+P004,T-Shirt,Mumbai,2025-09-12,127
+P004,T-Shirt,Kolkata,2025-09-12,136
+P004,T-Shirt,Chennai,2025-09-12,165
+P004,T-Shirt,Bengaluru,2025-09-12,113
+P005,Face Mask,Delhi,2025-09-12,245
+P005,Face Mask,Mumbai,2025-09-12,195
+P005,Face Mask,Kolkata,2025-09-12,212
+P005,Face Mask,Chennai,2025-09-12,215
+P005,Face Mask,Bengaluru,2025-09-12,247
+P001,Soft Drink X,Delhi,2025-09-13,185
+P001,Soft Drink X,Mumbai,2025-09-13,150
+P001,Soft Drink X,Kolkata,2025-09-13,177
+P001,Soft Drink X,Chennai,2025-09-13,184
+P001,Soft Drink X,Bengaluru,2025-09-13,199
+P002,Mithai Y,Delhi,2025-09-13,91
+P002,Mithai Y,Mumbai,2025-09-13,109
+P002,Mithai Y,Kolkata,2025-09-13,111
+P002,Mithai Y,Chennai,2025-09-13,125
+P002,Mithai Y,Bengaluru,2025-09-13,145
+P003,Cold Cream Z,Delhi,2025-09-13,110
+P003,Cold Cream Z,Mumbai,2025-09-13,86
+P003,Cold Cream Z,Kolkata,2025-09-13,93
+P003,Cold Cream Z,Chennai,2025-09-13,121
+P003,Cold Cream Z,Bengaluru,2025-09-13,106
+P004,T-Shirt,Delhi,2025-09-13,114
+P004,T-Shirt,Mumbai,2025-09-13,181
+P004,T-Shirt,Kolkata,2025-09-13,126
+P004,T-Shirt,Chennai,2025-09-13,134
+P004,T-Shirt,Bengaluru,2025-09-13,146
+P005,Face Mask,Delhi,2025-09-13,238
+P005,Face Mask,Mumbai,2025-09-13,186
+P005,Face Mask,Kolkata,2025-09-13,251
+P005,Face Mask,Chennai,2025-09-13,215
+P005,Face Mask,Bengaluru,2025-09-13,220
+P001,Soft Drink X,Delhi,2025-09-14,170
+P001,Soft Drink X,Mumbai,2025-09-14,191
+P001,Soft Drink X,Kolkata,2025-09-14,179
+P001,Soft Drink X,Chennai,2025-09-14,129
+P001,Soft Drink X,Bengaluru,2025-09-14,177
+P002,Mithai Y,Delhi,2025-09-14,101
+P002,Mithai Y,Mumbai,2025-09-14,133
+P002,Mithai Y,Kolkata,2025-09-14,111
+P002,Mithai Y,Chennai,2025-09-14,72
+P002,Mithai Y,Bengaluru,2025-09-14,190
+P003,Cold Cream Z,Delhi,2025-09-14,54
+P003,Cold Cream Z,Mumbai,2025-09-14,93
+P003,Cold Cream Z,Kolkata,2025-09-14,96
+P003,Cold Cream Z,Chennai,2025-09-14,91
+P003,Cold Cream Z,Bengaluru,2025-09-14,114
+P004,T-Shirt,Delhi,2025-09-14,100
+P004,T-Shirt,Mumbai,2025-09-14,187
+P004,T-Shirt,Kolkata,2025-09-14,156
+P004,T-Shirt,Chennai,2025-09-14,200
+P004,T-Shirt,Bengaluru,2025-09-14,154
+P005,Face Mask,Delhi,2025-09-14,219
+P005,Face Mask,Mumbai,2025-09-14,282
+P005,Face Mask,Kolkata,2025-09-14,177
+P005,Face Mask,Chennai,2025-09-14,203
+P005,Face Mask,Bengaluru,2025-09-14,220
+P001,Soft Drink X,Delhi,2025-09-15,127
+P001,Soft Drink X,Mumbai,2025-09-15,136
+P001,Soft Drink X,Kolkata,2025-09-15,210
+P001,Soft Drink X,Chennai,2025-09-15,183
+P001,Soft Drink X,Bengaluru,2025-09-15,217
+P002,Mithai Y,Delhi,2025-09-15,113
+P002,Mithai Y,Mumbai,2025-09-15,104
+P002,Mithai Y,Kolkata,2025-09-15,131
+P002,Mithai Y,Chennai,2025-09-15,114
+P002,Mithai Y,Bengaluru,2025-09-15,127
+P003,Cold Cream Z,Delhi,2025-09-15,156
+P003,Cold Cream Z,Mumbai,2025-09-15,133
+P003,Cold Cream Z,Kolkata,2025-09-15,72
+P003,Cold Cream Z,Chennai,2025-09-15,72
+P003,Cold Cream Z,Bengaluru,2025-09-15,105
+P004,T-Shirt,Delhi,2025-09-15,170
+P004,T-Shirt,Mumbai,2025-09-15,144
+P004,T-Shirt,Kolkata,2025-09-15,153
+P004,T-Shirt,Chennai,2025-09-15,144
+P004,T-Shirt,Bengaluru,2025-09-15,192
+P005,Face Mask,Delhi,2025-09-15,217
+P005,Face Mask,Mumbai,2025-09-15,225
+P005,Face Mask,Kolkata,2025-09-15,212
+P005,Face Mask,Chennai,2025-09-15,223
+P005,Face Mask,Bengaluru,2025-09-15,226
+P001,Soft Drink X,Delhi,2025-09-16,155
+P001,Soft Drink X,Mumbai,2025-09-16,179
+P001,Soft Drink X,Kolkata,2025-09-16,194
+P001,Soft Drink X,Chennai,2025-09-16,181
+P001,Soft Drink X,Bengaluru,2025-09-16,181
+P002,Mithai Y,Delhi,2025-09-16,139
+P002,Mithai Y,Mumbai,2025-09-16,73
+P002,Mithai Y,Kolkata,2025-09-16,101
+P002,Mithai Y,Chennai,2025-09-16,137
+P002,Mithai Y,Bengaluru,2025-09-16,150
+P003,Cold Cream Z,Delhi,2025-09-16,97
+P003,Cold Cream Z,Mumbai,2025-09-16,98
+P003,Cold Cream Z,Kolkata,2025-09-16,105
+P003,Cold Cream Z,Chennai,2025-09-16,66
+P003,Cold Cream Z,Bengaluru,2025-09-16,119
+P004,T-Shirt,Delhi,2025-09-16,112
+P004,T-Shirt,Mumbai,2025-09-16,149
+P004,T-Shirt,Kolkata,2025-09-16,103
+P004,T-Shirt,Chennai,2025-09-16,201
+P004,T-Shirt,Bengaluru,2025-09-16,162
+P005,Face Mask,Delhi,2025-09-16,223
+P005,Face Mask,Mumbai,2025-09-16,268
+P005,Face Mask,Kolkata,2025-09-16,297
+P005,Face Mask,Chennai,2025-09-16,197
+P005,Face Mask,Bengaluru,2025-09-16,189
+P001,Soft Drink X,Delhi,2025-09-17,180
+P001,Soft Drink X,Mumbai,2025-09-17,249
+P001,Soft Drink X,Kolkata,2025-09-17,148
+P001,Soft Drink X,Chennai,2025-09-17,208
+P001,Soft Drink X,Bengaluru,2025-09-17,175
+P002,Mithai Y,Delhi,2025-09-17,130
+P002,Mithai Y,Mumbai,2025-09-17,131
+P002,Mithai Y,Kolkata,2025-09-17,88
+P002,Mithai Y,Chennai,2025-09-17,86
+P002,Mithai Y,Bengaluru,2025-09-17,157
+P003,Cold Cream Z,Delhi,2025-09-17,84
+P003,Cold Cream Z,Mumbai,2025-09-17,146
+P003,Cold Cream Z,Kolkata,2025-09-17,80
+P003,Cold Cream Z,Chennai,2025-09-17,102
+P003,Cold Cream Z,Bengaluru,2025-09-17,105
+P004,T-Shirt,Delhi,2025-09-17,139
+P004,T-Shirt,Mumbai,2025-09-17,123
+P004,T-Shirt,Kolkata,2025-09-17,161
+P004,T-Shirt,Chennai,2025-09-17,110
+P004,T-Shirt,Bengaluru,2025-09-17,178
+P005,Face Mask,Delhi,2025-09-17,203
+P005,Face Mask,Mumbai,2025-09-17,199
+P005,Face Mask,Kolkata,2025-09-17,214
+P005,Face Mask,Chennai,2025-09-17,210
+P005,Face Mask,Bengaluru,2025-09-17,199
+P001,Soft Drink X,Delhi,2025-09-18,149
+P001,Soft Drink X,Mumbai,2025-09-18,166
+P001,Soft Drink X,Kolkata,2025-09-18,179
+P001,Soft Drink X,Chennai,2025-09-18,132
+P001,Soft Drink X,Bengaluru,2025-09-18,175
+P002,Mithai Y,Delhi,2025-09-18,145
+P002,Mithai Y,Mumbai,2025-09-18,117
+P002,Mithai Y,Kolkata,2025-09-18,98
+P002,Mithai Y,Chennai,2025-09-18,127
+P002,Mithai Y,Bengaluru,2025-09-18,147
+P003,Cold Cream Z,Delhi,2025-09-18,105
+P003,Cold Cream Z,Mumbai,2025-09-18,48
+P003,Cold Cream Z,Kolkata,2025-09-18,105
+P003,Cold Cream Z,Chennai,2025-09-18,128
+P003,Cold Cream Z,Bengaluru,2025-09-18,137
+P004,T-Shirt,Delhi,2025-09-18,162
+P004,T-Shirt,Mumbai,2025-09-18,197
+P004,T-Shirt,Kolkata,2025-09-18,172
+P004,T-Shirt,Chennai,2025-09-18,115
+P004,T-Shirt,Bengaluru,2025-09-18,139
+P005,Face Mask,Delhi,2025-09-18,273
+P005,Face Mask,Mumbai,2025-09-18,228
+P005,Face Mask,Kolkata,2025-09-18,197
+P005,Face Mask,Chennai,2025-09-18,229
+P005,Face Mask,Bengaluru,2025-09-18,201
+P001,Soft Drink X,Delhi,2025-09-19,243
+P001,Soft Drink X,Mumbai,2025-09-19,157
+P001,Soft Drink X,Kolkata,2025-09-19,188
+P001,Soft Drink X,Chennai,2025-09-19,161
+P001,Soft Drink X,Bengaluru,2025-09-19,189
+P002,Mithai Y,Delhi,2025-09-19,108
+P002,Mithai Y,Mumbai,2025-09-19,135
+P002,Mithai Y,Kolkata,2025-09-19,105
+P002,Mithai Y,Chennai,2025-09-19,99
+P002,Mithai Y,Bengaluru,2025-09-19,92
+P003,Cold Cream Z,Delhi,2025-09-19,87
+P003,Cold Cream Z,Mumbai,2025-09-19,105
+P003,Cold Cream Z,Kolkata,2025-09-19,124
+P003,Cold Cream Z,Chennai,2025-09-19,106
+P003,Cold Cream Z,Bengaluru,2025-09-19,115
+P004,T-Shirt,Delhi,2025-09-19,126
+P004,T-Shirt,Mumbai,2025-09-19,162
+P004,T-Shirt,Kolkata,2025-09-19,146
+P004,T-Shirt,Chennai,2025-09-19,134
+P004,T-Shirt,Bengaluru,2025-09-19,171
+P005,Face Mask,Delhi,2025-09-19,226
+P005,Face Mask,Mumbai,2025-09-19,203
+P005,Face Mask,Kolkata,2025-09-19,210
+P005,Face Mask,Chennai,2025-09-19,212
+P005,Face Mask,Bengaluru,2025-09-19,222
+P001,Soft Drink X,Delhi,2025-09-20,211
+P001,Soft Drink X,Mumbai,2025-09-20,180
+P001,Soft Drink X,Kolkata,2025-09-20,155
+P001,Soft Drink X,Chennai,2025-09-20,199
+P001,Soft Drink X,Bengaluru,2025-09-20,210
+P002,Mithai Y,Delhi,2025-09-20,126
+P002,Mithai Y,Mumbai,2025-09-20,126
+P002,Mithai Y,Kolkata,2025-09-20,102
+P002,Mithai Y,Chennai,2025-09-20,137
+P002,Mithai Y,Bengaluru,2025-09-20,142
+P003,Cold Cream Z,Delhi,2025-09-20,86
+P003,Cold Cream Z,Mumbai,2025-09-20,116
+P003,Cold Cream Z,Kolkata,2025-09-20,71
+P003,Cold Cream Z,Chennai,2025-09-20,126
+P003,Cold Cream Z,Bengaluru,2025-09-20,78
+P004,T-Shirt,Delhi,2025-09-20,169
+P004,T-Shirt,Mumbai,2025-09-20,146
+P004,T-Shirt,Kolkata,2025-09-20,152
+P004,T-Shirt,Chennai,2025-09-20,191
+P004,T-Shirt,Bengaluru,2025-09-20,87
+P005,Face Mask,Delhi,2025-09-20,216
+P005,Face Mask,Mumbai,2025-09-20,251
+P005,Face Mask,Kolkata,2025-09-20,239
+P005,Face Mask,Chennai,2025-09-20,236
+P005,Face Mask,Bengaluru,2025-09-20,233
+P001,Soft Drink X,Delhi,2025-09-21,129
+P001,Soft Drink X,Mumbai,2025-09-21,186
+P001,Soft Drink X,Kolkata,2025-09-21,187
+P001,Soft Drink X,Chennai,2025-09-21,191
+P001,Soft Drink X,Bengaluru,2025-09-21,175
+P002,Mithai Y,Delhi,2025-09-21,70
+P002,Mithai Y,Mumbai,2025-09-21,131
+P002,Mithai Y,Kolkata,2025-09-21,140
+P002,Mithai Y,Chennai,2025-09-21,77
+P002,Mithai Y,Bengaluru,2025-09-21,137
+P003,Cold Cream Z,Delhi,2025-09-21,85
+P003,Cold Cream Z,Mumbai,2025-09-21,131
+P003,Cold Cream Z,Kolkata,2025-09-21,57
+P003,Cold Cream Z,Chennai,2025-09-21,98
+P003,Cold Cream Z,Bengaluru,2025-09-21,108
+P004,T-Shirt,Delhi,2025-09-21,168
+P004,T-Shirt,Mumbai,2025-09-21,108
+P004,T-Shirt,Kolkata,2025-09-21,131
+P004,T-Shirt,Chennai,2025-09-21,144
+P004,T-Shirt,Bengaluru,2025-09-21,107
+P005,Face Mask,Delhi,2025-09-21,261
+P005,Face Mask,Mumbai,2025-09-21,245
+P005,Face Mask,Kolkata,2025-09-21,228
+P005,Face Mask,Chennai,2025-09-21,242
+P005,Face Mask,Bengaluru,2025-09-21,221
+P001,Soft Drink X,Delhi,2025-09-22,222
+P001,Soft Drink X,Mumbai,2025-09-22,199
+P001,Soft Drink X,Kolkata,2025-09-22,223
+P001,Soft Drink X,Chennai,2025-09-22,188
+P001,Soft Drink X,Bengaluru,2025-09-22,192
+P002,Mithai Y,Delhi,2025-09-22,137
+P002,Mithai Y,Mumbai,2025-09-22,121
+P002,Mithai Y,Kolkata,2025-09-22,94
+P002,Mithai Y,Chennai,2025-09-22,119
+P002,Mithai Y,Bengaluru,2025-09-22,109
+P003,Cold Cream Z,Delhi,2025-09-22,101
+P003,Cold Cream Z,Mumbai,2025-09-22,116
+P003,Cold Cream Z,Kolkata,2025-09-22,100
+P003,Cold Cream Z,Chennai,2025-09-22,87
+P003,Cold Cream Z,Bengaluru,2025-09-22,93
+P004,T-Shirt,Delhi,2025-09-22,130
+P004,T-Shirt,Mumbai,2025-09-22,155
+P004,T-Shirt,Kolkata,2025-09-22,148
+P004,T-Shirt,Chennai,2025-09-22,157
+P004,T-Shirt,Bengaluru,2025-09-22,124
+P005,Face Mask,Delhi,2025-09-22,222
+P005,Face Mask,Mumbai,2025-09-22,188
+P005,Face Mask,Kolkata,2025-09-22,224
+P005,Face Mask,Chennai,2025-09-22,223
+P005,Face Mask,Bengaluru,2025-09-22,232
+P001,Soft Drink X,Delhi,2025-09-23,166
+P001,Soft Drink X,Mumbai,2025-09-23,223
+P001,Soft Drink X,Kolkata,2025-09-23,169
+P001,Soft Drink X,Chennai,2025-09-23,156
+P001,Soft Drink X,Bengaluru,2025-09-23,151
+P002,Mithai Y,Delhi,2025-09-23,127
+P002,Mithai Y,Mumbai,2025-09-23,123
+P002,Mithai Y,Kolkata,2025-09-23,132
+P002,Mithai Y,Chennai,2025-09-23,133
+P002,Mithai Y,Bengaluru,2025-09-23,115
+P003,Cold Cream Z,Delhi,2025-09-23,72
+P003,Cold Cream Z,Mumbai,2025-09-23,111
+P003,Cold Cream Z,Kolkata,2025-09-23,140
+P003,Cold Cream Z,Chennai,2025-09-23,100
+P003,Cold Cream Z,Bengaluru,2025-09-23,89
+P004,T-Shirt,Delhi,2025-09-23,174
+P004,T-Shirt,Mumbai,2025-09-23,148
+P004,T-Shirt,Kolkata,2025-09-23,125
+P004,T-Shirt,Chennai,2025-09-23,128
+P004,T-Shirt,Bengaluru,2025-09-23,179
+P005,Face Mask,Delhi,2025-09-23,256
+P005,Face Mask,Mumbai,2025-09-23,211
+P005,Face Mask,Kolkata,2025-09-23,250
+P005,Face Mask,Chennai,2025-09-23,176
+P005,Face Mask,Bengaluru,2025-09-23,279
+P001,Soft Drink X,Delhi,2025-09-24,145
+P001,Soft Drink X,Mumbai,2025-09-24,195
+P001,Soft Drink X,Kolkata,2025-09-24,177
+P001,Soft Drink X,Chennai,2025-09-24,201
+P001,Soft Drink X,Bengaluru,2025-09-24,175
+P002,Mithai Y,Delhi,2025-09-24,136
+P002,Mithai Y,Mumbai,2025-09-24,142
+P002,Mithai Y,Kolkata,2025-09-24,122
+P002,Mithai Y,Chennai,2025-09-24,97
+P002,Mithai Y,Bengaluru,2025-09-24,161
+P003,Cold Cream Z,Delhi,2025-09-24,87
+P003,Cold Cream Z,Mumbai,2025-09-24,133
+P003,Cold Cream Z,Kolkata,2025-09-24,125
+P003,Cold Cream Z,Chennai,2025-09-24,77
+P003,Cold Cream Z,Bengaluru,2025-09-24,81
+P004,T-Shirt,Delhi,2025-09-24,150
+P004,T-Shirt,Mumbai,2025-09-24,166
+P004,T-Shirt,Kolkata,2025-09-24,189
+P004,T-Shirt,Chennai,2025-09-24,147
+P004,T-Shirt,Bengaluru,2025-09-24,149
+P005,Face Mask,Delhi,2025-09-24,204
+P005,Face Mask,Mumbai,2025-09-24,216
+P005,Face Mask,Kolkata,2025-09-24,216
+P005,Face Mask,Chennai,2025-09-24,238
+P005,Face Mask,Bengaluru,2025-09-24,246
+P001,Soft Drink X,Delhi,2025-09-25,164
+P001,Soft Drink X,Mumbai,2025-09-25,188
+P001,Soft Drink X,Kolkata,2025-09-25,134
+P001,Soft Drink X,Chennai,2025-09-25,167
+P001,Soft Drink X,Bengaluru,2025-09-25,182
+P002,Mithai Y,Delhi,2025-09-25,105
+P002,Mithai Y,Mumbai,2025-09-25,123
+P002,Mithai Y,Kolkata,2025-09-25,114
+P002,Mithai Y,Chennai,2025-09-25,135
+P002,Mithai Y,Bengaluru,2025-09-25,107
+P003,Cold Cream Z,Delhi,2025-09-25,99
+P003,Cold Cream Z,Mumbai,2025-09-25,81
+P003,Cold Cream Z,Kolkata,2025-09-25,139
+P003,Cold Cream Z,Chennai,2025-09-25,89
+P003,Cold Cream Z,Bengaluru,2025-09-25,139
+P004,T-Shirt,Delhi,2025-09-25,136
+P004,T-Shirt,Mumbai,2025-09-25,179
+P004,T-Shirt,Kolkata,2025-09-25,148
+P004,T-Shirt,Chennai,2025-09-25,137
+P004,T-Shirt,Bengaluru,2025-09-25,133
+P005,Face Mask,Delhi,2025-09-25,227
+P005,Face Mask,Mumbai,2025-09-25,247
+P005,Face Mask,Kolkata,2025-09-25,251
+P005,Face Mask,Chennai,2025-09-25,215
+P005,Face Mask,Bengaluru,2025-09-25,226
+P001,Soft Drink X,Delhi,2025-09-26,206
+P001,Soft Drink X,Mumbai,2025-09-26,179
+P001,Soft Drink X,Kolkata,2025-09-26,174
+P001,Soft Drink X,Chennai,2025-09-26,196
+P001,Soft Drink X,Bengaluru,2025-09-26,192
+P002,Mithai Y,Delhi,2025-09-26,128
+P002,Mithai Y,Mumbai,2025-09-26,119
+P002,Mithai Y,Kolkata,2025-09-26,131
+P002,Mithai Y,Chennai,2025-09-26,108
+P002,Mithai Y,Bengaluru,2025-09-26,99
+P003,Cold Cream Z,Delhi,2025-09-26,78
+P003,Cold Cream Z,Mumbai,2025-09-26,77
+P003,Cold Cream Z,Kolkata,2025-09-26,86
+P003,Cold Cream Z,Chennai,2025-09-26,113
+P003,Cold Cream Z,Bengaluru,2025-09-26,103
+P004,T-Shirt,Delhi,2025-09-26,140
+P004,T-Shirt,Mumbai,2025-09-26,171
+P004,T-Shirt,Kolkata,2025-09-26,154
+P004,T-Shirt,Chennai,2025-09-26,136
+P004,T-Shirt,Bengaluru,2025-09-26,167
+P005,Face Mask,Delhi,2025-09-26,226
+P005,Face Mask,Mumbai,2025-09-26,213
+P005,Face Mask,Kolkata,2025-09-26,200
+P005,Face Mask,Chennai,2025-09-26,237
+P005,Face Mask,Bengaluru,2025-09-26,215
+P001,Soft Drink X,Delhi,2025-09-27,145
+P001,Soft Drink X,Mumbai,2025-09-27,145
+P001,Soft Drink X,Kolkata,2025-09-27,191
+P001,Soft Drink X,Chennai,2025-09-27,142
+P001,Soft Drink X,Bengaluru,2025-09-27,209
+P002,Mithai Y,Delhi,2025-09-27,95
+P002,Mithai Y,Mumbai,2025-09-27,69
+P002,Mithai Y,Kolkata,2025-09-27,115
+P002,Mithai Y,Chennai,2025-09-27,154
+P002,Mithai Y,Bengaluru,2025-09-27,162
+P003,Cold Cream Z,Delhi,2025-09-27,130
+P003,Cold Cream Z,Mumbai,2025-09-27,95
+P003,Cold Cream Z,Kolkata,2025-09-27,38
+P003,Cold Cream Z,Chennai,2025-09-27,79
+P003,Cold Cream Z,Bengaluru,2025-09-27,54
+P004,T-Shirt,Delhi,2025-09-27,114
+P004,T-Shirt,Mumbai,2025-09-27,133
+P004,T-Shirt,Kolkata,2025-09-27,159
+P004,T-Shirt,Chennai,2025-09-27,164
+P004,T-Shirt,Bengaluru,2025-09-27,134
+P005,Face Mask,Delhi,2025-09-27,236
+P005,Face Mask,Mumbai,2025-09-27,254
+P005,Face Mask,Kolkata,2025-09-27,215
+P005,Face Mask,Chennai,2025-09-27,187
+P005,Face Mask,Bengaluru,2025-09-27,230
+P001,Soft Drink X,Delhi,2025-09-28,171
+P001,Soft Drink X,Mumbai,2025-09-28,142
+P001,Soft Drink X,Kolkata,2025-09-28,214
+P001,Soft Drink X,Chennai,2025-09-28,185
+P001,Soft Drink X,Bengaluru,2025-09-28,151
+P002,Mithai Y,Delhi,2025-09-28,130
+P002,Mithai Y,Mumbai,2025-09-28,137
+P002,Mithai Y,Kolkata,2025-09-28,101
+P002,Mithai Y,Chennai,2025-09-28,118
+P002,Mithai Y,Bengaluru,2025-09-28,144
+P003,Cold Cream Z,Delhi,2025-09-28,54
+P003,Cold Cream Z,Mumbai,2025-09-28,69
+P003,Cold Cream Z,Kolkata,2025-09-28,102
+P003,Cold Cream Z,Chennai,2025-09-28,82
+P003,Cold Cream Z,Bengaluru,2025-09-28,142
+P004,T-Shirt,Delhi,2025-09-28,147
+P004,T-Shirt,Mumbai,2025-09-28,141
+P004,T-Shirt,Kolkata,2025-09-28,139
+P004,T-Shirt,Chennai,2025-09-28,144
+P004,T-Shirt,Bengaluru,2025-09-28,94
+P005,Face Mask,Delhi,2025-09-28,224
+P005,Face Mask,Mumbai,2025-09-28,252
+P005,Face Mask,Kolkata,2025-09-28,187
+P005,Face Mask,Chennai,2025-09-28,238
+P005,Face Mask,Bengaluru,2025-09-28,197
+P001,Soft Drink X,Delhi,2025-09-29,180
+P001,Soft Drink X,Mumbai,2025-09-29,165
+P001,Soft Drink X,Kolkata,2025-09-29,173
+P001,Soft Drink X,Chennai,2025-09-29,170
+P001,Soft Drink X,Bengaluru,2025-09-29,198
+P002,Mithai Y,Delhi,2025-09-29,99
+P002,Mithai Y,Mumbai,2025-09-29,68
+P002,Mithai Y,Kolkata,2025-09-29,127
+P002,Mithai Y,Chennai,2025-09-29,134
+P002,Mithai Y,Bengaluru,2025-09-29,139
+P003,Cold Cream Z,Delhi,2025-09-29,69
+P003,Cold Cream Z,Mumbai,2025-09-29,141
+P003,Cold Cream Z,Kolkata,2025-09-29,56
+P003,Cold Cream Z,Chennai,2025-09-29,86
+P003,Cold Cream Z,Bengaluru,2025-09-29,97
+P004,T-Shirt,Delhi,2025-09-29,182
+P004,T-Shirt,Mumbai,2025-09-29,146
+P004,T-Shirt,Kolkata,2025-09-29,147
+P004,T-Shirt,Chennai,2025-09-29,153
+P004,T-Shirt,Bengaluru,2025-09-29,143
+P005,Face Mask,Delhi,2025-09-29,226
+P005,Face Mask,Mumbai,2025-09-29,211
+P005,Face Mask,Kolkata,2025-09-29,226
+P005,Face Mask,Chennai,2025-09-29,244
+P005,Face Mask,Bengaluru,2025-09-29,202
+P001,Soft Drink X,Delhi,2025-09-30,222
+P001,Soft Drink X,Mumbai,2025-09-30,206
+P001,Soft Drink X,Kolkata,2025-09-30,162
+P001,Soft Drink X,Chennai,2025-09-30,167
+P001,Soft Drink X,Bengaluru,2025-09-30,152
+P002,Mithai Y,Delhi,2025-09-30,81
+P002,Mithai Y,Mumbai,2025-09-30,102
+P002,Mithai Y,Kolkata,2025-09-30,80
+P002,Mithai Y,Chennai,2025-09-30,94
+P002,Mithai Y,Bengaluru,2025-09-30,127
+P003,Cold Cream Z,Delhi,2025-09-30,82
+P003,Cold Cream Z,Mumbai,2025-09-30,54
+P003,Cold Cream Z,Kolkata,2025-09-30,105
+P003,Cold Cream Z,Chennai,2025-09-30,91
+P003,Cold Cream Z,Bengaluru,2025-09-30,104
+P004,T-Shirt,Delhi,2025-09-30,132
+P004,T-Shirt,Mumbai,2025-09-30,163
+P004,T-Shirt,Kolkata,2025-09-30,129
+P004,T-Shirt,Chennai,2025-09-30,176
+P004,T-Shirt,Bengaluru,2025-09-30,122
+P005,Face Mask,Delhi,2025-09-30,228
+P005,Face Mask,Mumbai,2025-09-30,246
+P005,Face Mask,Kolkata,2025-09-30,224
+P005,Face Mask,Chennai,2025-09-30,240
+P005,Face Mask,Bengaluru,2025-09-30,222
