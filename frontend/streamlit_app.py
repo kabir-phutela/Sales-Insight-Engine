@@ -47,7 +47,7 @@ if submitted:
 
     try:
         # Call API
-        response = requests.post("https://sales-insight-engine.onrender.com", json=payload)
+        response = requests.post("https://sales-insight-engine.onrender.com/predict", json=payload)
 
         if response.status_code == 200:
             prediction = response.json()["predicted_sales"]
