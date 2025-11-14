@@ -26,8 +26,8 @@ The Sales Insight Engine enables users and stakeholders to explore the classic T
 
 1 Clone the Repository  
 
-   git clone https://github.com/kabir-phutela/Sales-Insight-Engine.git  
-   cd Sales-Insight-Engine  
+    git clone https://github.com/kabir-phutela/Sales-Insight-Engine.git  
+    cd Sales-Insight-Engine  
 
 2. Setup Virtual Environment & Install Dependencies
 
