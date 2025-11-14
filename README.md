@@ -31,14 +31,14 @@ The Sales Insight Engine enables users and stakeholders to explore the classic T
 
 2. Setup Virtual Environment & Install Dependencies
 
-   python3 -m venv venv  
-   source venv/bin/activate     # On Windows: venv\Scripts\activate  
-   pip install -r requirements.txt
+       python3 -m venv venv  
+       source venv/bin/activate     # On Windows: venv\Scripts\activate  
+       pip install -r requirements.txt
 
 3. Run the Notebook
 
-   Open the Sales_Insight_Engine.ipynb (or similarly named notebook) in Jupyter:
-   jupyter notebook Sales_Insight_Engine.ipynb  
+       Open the Sales_Insight_Engine.ipynb (or similarly named notebook) in Jupyter:
+       jupyter notebook Sales_Insight_Engine.ipynb  
 
 4. Modify or Extend
 
