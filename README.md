@@ -42,13 +42,10 @@ The Sales Insight Engine enables users and stakeholders to explore the classic T
 
 4. Modify or Extend
 
-You can easily adapt this workflow for a similar dataset.
-
-Replace the data/ folder contents with your dataset.
-
-Update feature names and adjust visualizations accordingly.
-
-Look for sections marked # TODO or ## Extend Here for quick customization.
+   You can easily adapt this workflow for a similar dataset.
+   Replace the data/ folder contents with your dataset.
+   Update feature names and adjust visualizations accordingly.
+   Look for sections marked # TODO or ## Extend Here for quick customization.
 
 5. Deployment
 
