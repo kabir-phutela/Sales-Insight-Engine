@@ -193,5 +193,25 @@ def sitemap():
         mimetype="application/xml"
     )    
 
+@app.route("/robots.txt", methods=["GET"])
+def robots():
+
+    robots_txt = f"""
+User-agent: *
+Disallow: /api/
+Disallow: /admin/
+Disallow: /login/
+Disallow: /logout/
+
+Allow: /
+
+Sitemap: https://sales-insight-engine.onrender.com/sitemap.xml
+"""
+
+    return Response(
+        robots_txt,
+        mimetype="text/plain"
+    )
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
