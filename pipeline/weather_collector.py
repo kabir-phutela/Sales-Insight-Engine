@@ -3,23 +3,16 @@ import random
 from datetime import datetime, timedelta
 import os
 
-# ----------------------------------------
-# 🗓️ Configuration
-# ----------------------------------------
+cities = ["Bathinda", "Malout", "Mohali", "Rajpura", "Patiala"]
 
-cities = ["Delhi", "Mumbai", "Kolkata", "Chennai", "Bengaluru"]
-
-start_date = datetime(2025, 6, 27)
+start_date = datetime(2025, 1, 1)
 end_date = datetime(2025, 9, 30)
 
-# ----------------------------------------
-# 🌤️ Simulate Weather Data
-# ----------------------------------------
 
 def simulate_weather_data():
     weather_data = []
-
     date = start_date
+
     while date <= end_date:
         for city in cities:
             weather_data.append({
@@ -41,18 +34,18 @@ def simulate_weather_data():
 
     df = pd.DataFrame(weather_data)
 
-    # Save to data/raw
-    os.makedirs("data/raw", exist_ok=True)
-    df.to_csv("data/raw/weather_data.csv", index=False)
+    # Ensure directory exists
+    save_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data/raw/weather_data.csv"))
+    os.makedirs(os.path.dirname(save_path), exist_ok=True)
 
-    print(f"✅ Simulated weather data saved to data/raw/weather_data.csv")
+    df.to_csv(save_path, index=False)
+
+    print(f"✅ Simulated weather data saved at: {save_path}")
+    print("Unique cities in data:", df["city"].unique())
     print(df.head())
 
     return df
 
-# ----------------------------------------
-# ▶ Run Script
-# ----------------------------------------
 
 if __name__ == "__main__":
     simulate_weather_data()

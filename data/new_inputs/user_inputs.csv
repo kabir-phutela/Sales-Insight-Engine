@@ -1,0 +1,20 @@
+product_id,product_name,area,date,temp,humidity,wind_speed,weather_main,weather_desc,name,sales_lag_1,day_of_week,month,is_weekend,predicted_sales
+P001,Soft Drink ,Bathinda,2025-09-30,25.0,50.0,5.0,Clear,clear sky,New Year's Day,0,1,9,0,169.84444
+P001,Soft Drink,Bathinda,2025-10-02,25.0,50.0,5.0,Clear,clear sky,None,0,3,10,0,173.7162
+P001,Soft Drink,Bathinda,2025-10-03,25.0,50.0,5.0,Clear,clear sky,None,0,4,10,0,173.6389
+P001,Soft Drink,Bathinda,2025-10-03,25.0,50.0,5.0,Clear,few clouds,None,0,4,10,0,176.30998
+P001,Soft Drink,Bathinda,2025-10-03,25.0,50.0,5.0,Clear,light rain,None,0,4,10,0,177.60541
+P001,Soft Drink,Bathinda,2025-10-03,25.19000000000003,50.0,5.0,Clear,light rain,None,0,4,10,0,177.60541
+P001,Soft Drink,Bathinda,2025-10-03,25.19000000000003,50.0,5.0,Clear,light rain,None,0,4,10,0,177.60541
+P001,Soft Drink,Bathinda,2025-10-03,50.0,50.0,5.0,Clear,light rain,None,0,4,10,0,191.3369
+P001,Soft Drink,Bathinda,2025-10-03,50.0,50.0,5.0,Clear,light rain,None,0,4,10,0,191.3369
+P001,Soft Drink,Bathinda,2025-09-27,25.0,50.0,5.0,Clear,clear sky,None,0,5,9,1,174.30458068847656
+P001,Soft Drink,Bathinda,2025-09-28,25.0,50.0,5.0,Clear,clear sky,None,0,6,9,1,174.0663604736328
+P002,Gift Hamper,Bathinda,2025-09-28,25.0,50.0,5.0,Clear,clear sky,None,0,6,9,1,100.45318603515625
+P002,Gift Hamper,Bathinda,2025-10-20,25.0,50.0,5.0,Clear,clear sky,None,0,0,10,0,97.90068054199219
+P002,Soft Drink,Bathinda,2025-10-20,25.0,50.0,5.0,Clear,clear sky,None,0,0,10,0,97.90068054199219
+P002,Soft Drink,Malout,2025-10-20,25.0,50.0,5.0,Clear,clear sky,Diwali,0,0,10,0,99.11715698242188
+P002,Soft Drink,Malout,2025-10-20,25.0,50.0,5.0,Clear,clear sky,Diwali,0,0,10,0,99.11715698242188
+P001,Soft Drink,Bathinda,2026-01-14,30.0,50.0,5.0,Clear,clear sky,None,0,2,1,0,173.68405151367188
+P001,Soft Drink,Bathinda,2026-01-14,40.0,50.0,5.0,Clear,clear sky,None,0,2,1,0,173.68405151367188
+P001,Soft Drink,Bathinda,2026-01-14,80.0,50.0,5.0,Clear,clear sky,None,0,2,1,0,189.5009765625

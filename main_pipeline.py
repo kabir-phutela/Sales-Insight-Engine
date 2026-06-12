@@ -6,39 +6,32 @@ import os
 
 def run_script(script_path):
     """
-    Helper function to execute a Python script in a subprocess.
+    Run a Python script and print stdout/stderr.
     """
-    print(f"\n🚀 Running script: {script_path}")
-    result = subprocess.run(
-        [sys.executable, script_path],
-        capture_output=True,
-        text=True
-    )
+    print(f"\nRunning script: {script_path}")
+    result = subprocess.run([sys.executable, script_path], capture_output=True, text=True)
     print(result.stdout)
     if result.stderr:
-        print(f"⚠️ Errors:\n{result.stderr}")
+        print(f"Errors:\n{result.stderr}")
 
 if __name__ == "__main__":
-    print("🔹 Starting Stock Management Data Pipeline...")
+    print("Starting Stock Management Retraining Pipeline...")
 
-    # Paths to your pipeline scripts
-    pipeline_dir = os.path.join("pipeline")
+    # -----------------------------
+    # Absolute path handling
+    # -----------------------------
+    script_dir = os.path.dirname(os.path.abspath(__file__))  # directory of main_pipeline.py
+    pipeline_dir = os.path.join(script_dir, "pipeline")
+    retrain_script = os.path.join(pipeline_dir, "retraining_model.py")
 
-    weather_script = os.path.join(pipeline_dir, "weather_collector.py")
-    holiday_script = os.path.join(pipeline_dir, "holiday_collector.py")
-    trend_script = os.path.join(pipeline_dir, "trend_collector.py")
-    merge_script = os.path.join(pipeline_dir, "merge_features.py")
+    print("Looking for retraining script at:", retrain_script)
 
-    # 1. Fetch Weather Data
-    run_script(weather_script)
+    if not os.path.exists(retrain_script):
+        raise FileNotFoundError(f"Retraining script not found at {retrain_script}")
 
-    # 2. Fetch Holiday Data
-    run_script(holiday_script)
+    # -----------------------------
+    # Run retraining
+    # -----------------------------
+    run_script(retrain_script)
 
-    # 3. Fetch Trend Data
-    run_script(trend_script)
-
-    # 4. Merge Data
-    run_script(merge_script)
-
-    print("\n✅ All pipeline steps completed successfully.")
+    print("\nModel retraining completed successfully.")

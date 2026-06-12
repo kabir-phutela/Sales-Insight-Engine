@@ -3,26 +3,20 @@ import random
 from datetime import datetime, timedelta
 import os
 
-# ----------------------------------------
-# 🛒 Configuration
-# ----------------------------------------
 
 products = [
-    {"product_id": "P001", "product_name": "Soft Drink X"},
-    {"product_id": "P002", "product_name": "Mithai Y"},
-    {"product_id": "P003", "product_name": "Cold Cream Z"},
-    {"product_id": "P004", "product_name": "T-Shirt"},
-    {"product_id": "P005", "product_name": "Face Mask"}
+    {"product_id": "P001", "product_name": "Soft Drink "},
+    {"product_id": "P002", "product_name": "Sweets "},
+    {"product_id": "P003", "product_name": "Moisturizer "},
+    {"product_id": "P004", "product_name": "Pooja Articles"},
+    {"product_id": "P005", "product_name": "Gift Hamper"}
 ]
 
-cities = ["Delhi", "Mumbai", "Kolkata", "Chennai", "Bengaluru"]
+cities = ["Bathinda", "Malout", "Mohali", "Rajpura", "Patiala"]
 
-start_date = datetime(2025, 6, 27)
-end_date = datetime(2025, 9, 30)  # 3 months
+start_date = datetime(2025, 1, 1)
+end_date = datetime(2025, 9, 30)  # 9 months
 
-# ----------------------------------------
-# 📦 Generate Synthetic Sales Data
-# ----------------------------------------
 
 def generate_sales_data():
     all_data = []
@@ -32,15 +26,15 @@ def generate_sales_data():
         for product in products:
             for city in cities:
                 # Define product-based seasonal effects
-                if product["product_name"] == "Soft Drink X":
+                if product["product_name"] == "Soft Drink ":
                     base_sales = 250 if date.month in [7, 8] else 180
-                elif product["product_name"] == "Mithai Y":
+                elif product["product_name"] == "Sweets ":
                     base_sales = 200 if date.month == 8 else 120
-                elif product["product_name"] == "Cold Cream Z":
+                elif product["product_name"] == "Moisturizer ":
                     base_sales = 100 if date.month == 9 else 60
-                elif product["product_name"] == "T-Shirt":
+                elif product["product_name"] == "Pooja Articles":
                     base_sales = 180 if date.month in [7, 8] else 150
-                elif product["product_name"] == "Face Mask":
+                elif product["product_name"] == "Gift Hamper":
                     base_sales = 220
                 else:
                     base_sales = 100
@@ -64,12 +58,8 @@ def generate_sales_data():
     # Ensure output folder exists
     os.makedirs("data/raw", exist_ok=True)
     df.to_csv("data/raw/internal_sales.csv", index=False)
-    print(f"✅ Generated {len(df)} rows of synthetic sales data.")
-    print("📁 Saved to: data/raw/internal_sales.csv")
-
-# ----------------------------------------
-# ▶ Run Script
-# ----------------------------------------
+    print(f"Generated {len(df)} rows of synthetic sales data.")
+    print("Saved to: data/raw/internal_sales.csv")
 
 if __name__ == "__main__":
     generate_sales_data()

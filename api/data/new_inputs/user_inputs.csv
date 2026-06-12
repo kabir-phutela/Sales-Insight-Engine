@@ -1,0 +1,3 @@
+product_id,product_name,area,date,temp,humidity,wind_speed,weather_main,weather_desc,name,sales_lag_1,day_of_week,month,is_weekend,predicted_sales
+P001,Soft Drink,Bathinda,2025-09-27,25.0,50.0,5.0,Clear,clear sky,None,0,5,9,1,174.30458068847656
+P001,Soft Drink,Bathinda,2025-09-28,25.0,50.0,5.0,Clear,clear sky,None,0,6,9,1,174.0663604736328
