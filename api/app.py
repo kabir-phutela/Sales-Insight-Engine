@@ -1,8 +1,9 @@
-from flask import Flask, request, jsonify,send_from_directory
+from flask import Flask, request, jsonify,send_from_directory,Response
 import joblib
 import numpy as np
 import pandas as pd
 import os
+from datetime import date
 
 app = Flask(__name__)
 
@@ -126,6 +127,71 @@ def predict():
 @app.route("/")
 def home():
     return "Sales Prediction API is running!"
+
+
+@app.route("/sitemap.xml", methods=["GET"])
+def sitemap():
+    """
+    Dynamically generates sitemap.xml
+    """
+
+    # Routes we never want Google to index
+    excluded_prefixes = [
+        "/api",
+        "/admin",
+        "/login",
+        "/logout",
+        "/register",
+        "/debug",
+        "/static"
+    ]
+
+    pages = []
+
+    for rule in app.url_map.iter_rules():
+
+        # Only GET routes
+        if "GET" not in rule.methods:
+            continue
+
+        # Ignore Flask internal/static routes
+        if rule.endpoint == "static":
+            continue
+
+        # Ignore dynamic routes like /user/<id>
+        if "<" in rule.rule:
+            continue
+
+        # Ignore unwanted prefixes
+        if any(rule.rule.startswith(prefix) for prefix in excluded_prefixes):
+            continue
+
+        pages.append(rule.rule)
+
+    pages = sorted(set(pages))
+
+    today = date.today().isoformat()
+
+    xml = ['<?xml version="1.0" encoding="UTF-8"?>']
+    xml.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+
+    for page in pages:
+
+        url = request.host_url.rstrip("/") + page
+
+        xml.append("  <url>")
+        xml.append(f"      <loc>{url}</loc>")
+        xml.append(f"      <lastmod>{today}</lastmod>")
+        xml.append("      <changefreq>weekly</changefreq>")
+        xml.append("      <priority>0.8</priority>")
+        xml.append("  </url>")
+
+    xml.append("</urlset>")
+
+    return Response(
+        "\n".join(xml),
+        mimetype="application/xml"
+    )    
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
